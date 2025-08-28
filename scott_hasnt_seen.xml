@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Wed, 27 Aug 2025 02:29:45 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 02:29:50 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -102,8 +102,8 @@
             <guid isPermaLink="false">tt0179116</guid>
         </item>
         <item>
-            <title><![CDATA[ Candyman (1992) ]]></title>
-            <guid isPermaLink="false">tt0103919</guid>
+            <title><![CDATA[ Candyman (2021) ]]></title>
+            <guid isPermaLink="false">tt9347730</guid>
         </item>
         <item>
             <title><![CDATA[ Carrie (1976) ]]></title>
@@ -286,8 +286,8 @@
             <guid isPermaLink="false">tt0110148</guid>
         </item>
         <item>
-            <title><![CDATA[ Jack (2014) ]]></title>
-            <guid isPermaLink="false">tt3469918</guid>
+            <title><![CDATA[ Jack (1996) ]]></title>
+            <guid isPermaLink="false">tt0116669</guid>
         </item>
         <item>
             <title><![CDATA[ James and the Giant Peach (1996) ]]></title>
@@ -522,8 +522,8 @@
             <guid isPermaLink="false">tt0063661</guid>
         </item>
         <item>
-            <title><![CDATA[ Swing Kids (1993) ]]></title>
-            <guid isPermaLink="false">tt0108265</guid>
+            <title><![CDATA[ Swing Kids (2018) ]]></title>
+            <guid isPermaLink="false">tt7046974</guid>
         </item>
         <item>
             <title><![CDATA[ Taxi (1996) ]]></title>
