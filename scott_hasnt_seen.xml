@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Thu, 28 Aug 2025 02:29:50 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 02:29:48 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -40,10 +40,6 @@
         <item>
             <title><![CDATA[ April Fool's Day (1997) ]]></title>
             <guid isPermaLink="false">tt1003261</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Arthur (2011) ]]></title>
-            <guid isPermaLink="false">tt1334512</guid>
         </item>
         <item>
             <title><![CDATA[ Audition (2015) ]]></title>
@@ -350,6 +346,10 @@
             <guid isPermaLink="false">tt0113749</guid>
         </item>
         <item>
+            <title><![CDATA[ Mamma Mia! (2008) ]]></title>
+            <guid isPermaLink="false">tt0795421</guid>
+        </item>
+        <item>
             <title><![CDATA[ Mamma Mia! Here We Go Again (2018) ]]></title>
             <guid isPermaLink="false">tt6911608</guid>
         </item>
@@ -650,8 +650,8 @@
             <guid isPermaLink="false">tt0108037</guid>
         </item>
         <item>
-            <title><![CDATA[ The Santa Clause 3: The Escape Clause (2006) ]]></title>
-            <guid isPermaLink="false">tt0452681</guid>
+            <title><![CDATA[ The Santa Clause (1994) ]]></title>
+            <guid isPermaLink="false">tt0111070</guid>
         </item>
         <item>
             <title><![CDATA[ The Sisterhood of the Traveling Pants (2005) ]]></title>
