@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Mon, 01 Sep 2025 02:36:47 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 02 Sep 2025 02:30:45 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -54,6 +54,10 @@
             <guid isPermaLink="false">tt0062711</guid>
         </item>
         <item>
+            <title><![CDATA[ Battlefield Earth (2000) ]]></title>
+            <guid isPermaLink="false">tt0185183</guid>
+        </item>
+        <item>
             <title><![CDATA[ Before Midnight (1933) ]]></title>
             <guid isPermaLink="false">tt0024868</guid>
         </item>
@@ -98,6 +102,14 @@
             <guid isPermaLink="false">tt0179116</guid>
         </item>
         <item>
+            <title><![CDATA[ Cabaret (1993) ]]></title>
+            <guid isPermaLink="false">tt0436153</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Can't Hardly Wait (1998) ]]></title>
+            <guid isPermaLink="false">tt0127723</guid>
+        </item>
+        <item>
             <title><![CDATA[ Candyman (1992) ]]></title>
             <guid isPermaLink="false">tt0103919</guid>
         </item>
@@ -136,6 +148,10 @@
         <item>
             <title><![CDATA[ Cool Hand Luke (1967) ]]></title>
             <guid isPermaLink="false">tt0061512</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Daddy's Home 2 (2017) ]]></title>
+            <guid isPermaLink="false">tt5657846</guid>
         </item>
         <item>
             <title><![CDATA[ Deliverance (1972) ]]></title>
@@ -362,6 +378,10 @@
             <guid isPermaLink="false">tt0081150</guid>
         </item>
         <item>
+            <title><![CDATA[ Midnight Cowboy (1969) ]]></title>
+            <guid isPermaLink="false">tt0064665</guid>
+        </item>
+        <item>
             <title><![CDATA[ Morbius (2022) ]]></title>
             <guid isPermaLink="false">tt5108870</guid>
         </item>
@@ -386,6 +406,10 @@
             <guid isPermaLink="false">tt0110632</guid>
         </item>
         <item>
+            <title><![CDATA[ Network (1976) ]]></title>
+            <guid isPermaLink="false">tt0074958</guid>
+        </item>
+        <item>
             <title><![CDATA[ New Nightmare (1994) ]]></title>
             <guid isPermaLink="false">tt0111686</guid>
         </item>
@@ -400,6 +424,10 @@
         <item>
             <title><![CDATA[ Not Another Teen Movie (2001) ]]></title>
             <guid isPermaLink="false">tt0277371</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Oldboy (2013) ]]></title>
+            <guid isPermaLink="false">tt1321511</guid>
         </item>
         <item>
             <title><![CDATA[ Once Upon a Time in the West (1968) ]]></title>
@@ -574,6 +602,10 @@
             <guid isPermaLink="false">tt0116209</guid>
         </item>
         <item>
+            <title><![CDATA[ The Firm (1989) ]]></title>
+            <guid isPermaLink="false">tt0095158</guid>
+        </item>
+        <item>
             <title><![CDATA[ The First Wives Club (1996) ]]></title>
             <guid isPermaLink="false">tt0116313</guid>
         </item>
@@ -590,8 +622,16 @@
             <guid isPermaLink="false">tt0060196</guid>
         </item>
         <item>
+            <title><![CDATA[ The Graduate (1967) ]]></title>
+            <guid isPermaLink="false">tt0061722</guid>
+        </item>
+        <item>
             <title><![CDATA[ The Holiday (2006) ]]></title>
             <guid isPermaLink="false">tt0457939</guid>
+        </item>
+        <item>
+            <title><![CDATA[ The Jerk (1979) ]]></title>
+            <guid isPermaLink="false">tt0079367</guid>
         </item>
         <item>
             <title><![CDATA[ The Life and Passion of Jesus Christ (1903) ]]></title>
@@ -664,6 +704,10 @@
         <item>
             <title><![CDATA[ The Unbearable Weight of Massive Talent (2022) ]]></title>
             <guid isPermaLink="false">tt11291274</guid>
+        </item>
+        <item>
+            <title><![CDATA[ The Untouchables (1987) ]]></title>
+            <guid isPermaLink="false">tt0094226</guid>
         </item>
         <item>
             <title><![CDATA[ The Warriors (1979) ]]></title>
