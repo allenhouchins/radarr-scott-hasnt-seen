@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Sat, 13 Sep 2025 02:22:07 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 14 Sep 2025 02:30:12 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -250,8 +250,8 @@
             <guid isPermaLink="false">tt0041414</guid>
         </item>
         <item>
-            <title><![CDATA[ Godzilla (1977) ]]></title>
-            <guid isPermaLink="false">tt1543211</guid>
+            <title><![CDATA[ Godzilla (2014) ]]></title>
+            <guid isPermaLink="false">tt0831387</guid>
         </item>
         <item>
             <title><![CDATA[ Godzilla Minus One (2023) ]]></title>
@@ -282,8 +282,8 @@
             <guid isPermaLink="false">tt0091203</guid>
         </item>
         <item>
-            <title><![CDATA[ Hocus Pocus (1993) ]]></title>
-            <guid isPermaLink="false">tt0107120</guid>
+            <title><![CDATA[ Hocus Pocus (1984) ]]></title>
+            <guid isPermaLink="false">tt0087993</guid>
         </item>
         <item>
             <title><![CDATA[ House Party (1990) ]]></title>
@@ -454,8 +454,8 @@
             <guid isPermaLink="false">tt0069089</guid>
         </item>
         <item>
-            <title><![CDATA[ Pitch Black (2023) ]]></title>
-            <guid isPermaLink="false">tt29579836</guid>
+            <title><![CDATA[ Pitch Black (2000) ]]></title>
+            <guid isPermaLink="false">tt0134847</guid>
         </item>
         <item>
             <title><![CDATA[ Point Break (1991) ]]></title>
@@ -720,6 +720,10 @@
         <item>
             <title><![CDATA[ Top Gun (1986) ]]></title>
             <guid isPermaLink="false">tt0092099</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Top Secret! (1984) ]]></title>
+            <guid isPermaLink="false">tt0088286</guid>
         </item>
         <item>
             <title><![CDATA[ Trainspotting (1996) ]]></title>
