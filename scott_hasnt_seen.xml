@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Thu, 25 Sep 2025 02:29:14 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 02:28:48 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -42,8 +42,8 @@
             <guid isPermaLink="false">tt1018817</guid>
         </item>
         <item>
-            <title><![CDATA[ Audition (2015) ]]></title>
-            <guid isPermaLink="false">tt4280410</guid>
+            <title><![CDATA[ Audition (1) ]]></title>
+            <guid isPermaLink="false">tt38237754</guid>
         </item>
         <item>
             <title><![CDATA[ Bad Lieutenant: Port of Call - New Orleans (2009) ]]></title>
@@ -434,8 +434,8 @@
             <guid isPermaLink="false">tt0064116</guid>
         </item>
         <item>
-            <title><![CDATA[ Ordinary People (1980) ]]></title>
-            <guid isPermaLink="false">tt0081283</guid>
+            <title><![CDATA[ Ordinary People (2002) ]]></title>
+            <guid isPermaLink="false">tt0314470</guid>
         </item>
         <item>
             <title><![CDATA[ Paddington 2 (2017) ]]></title>
@@ -598,8 +598,8 @@
             <guid isPermaLink="false">tt0116209</guid>
         </item>
         <item>
-            <title><![CDATA[ The Firm (1989) ]]></title>
-            <guid isPermaLink="false">tt0095158</guid>
+            <title><![CDATA[ The Firm (1993) ]]></title>
+            <guid isPermaLink="false">tt0106918</guid>
         </item>
         <item>
             <title><![CDATA[ The First Wives Club (1996) ]]></title>
