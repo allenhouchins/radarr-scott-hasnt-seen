@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Sat, 04 Oct 2025 02:23:57 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 02:31:36 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -38,8 +38,8 @@
             <guid isPermaLink="false">tt26047818</guid>
         </item>
         <item>
-            <title><![CDATA[ April Fool's Day (1986) ]]></title>
-            <guid isPermaLink="false">tt0090655</guid>
+            <title><![CDATA[ April Fool's Day (2008) ]]></title>
+            <guid isPermaLink="false">tt1018817</guid>
         </item>
         <item>
             <title><![CDATA[ Audition (1) ]]></title>
@@ -114,8 +114,8 @@
             <guid isPermaLink="false">tt0103919</guid>
         </item>
         <item>
-            <title><![CDATA[ Carrie (2013) ]]></title>
-            <guid isPermaLink="false">tt1939659</guid>
+            <title><![CDATA[ Carrie (1976) ]]></title>
+            <guid isPermaLink="false">tt0074285</guid>
         </item>
         <item>
             <title><![CDATA[ Casper (1995) ]]></title>
@@ -630,6 +630,10 @@
             <guid isPermaLink="false">tt0079367</guid>
         </item>
         <item>
+            <title><![CDATA[ The Life and Passion of Jesus Christ (1903) ]]></title>
+            <guid isPermaLink="false">tt0127962</guid>
+        </item>
+        <item>
             <title><![CDATA[ The Little Vampire (2000) ]]></title>
             <guid isPermaLink="false">tt0192255</guid>
         </item>
@@ -652,10 +656,6 @@
         <item>
             <title><![CDATA[ The Omen (1995) ]]></title>
             <guid isPermaLink="false">tt0114036</guid>
-        </item>
-        <item>
-            <title><![CDATA[ The Passion of the Christ (2004) ]]></title>
-            <guid isPermaLink="false">tt0335345</guid>
         </item>
         <item>
             <title><![CDATA[ The Postman (1997) ]]></title>
