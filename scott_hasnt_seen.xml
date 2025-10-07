@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Mon, 06 Oct 2025 02:29:23 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 02:27:40 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -198,8 +198,8 @@
             <guid isPermaLink="false">tt0104187</guid>
         </item>
         <item>
-            <title><![CDATA[ Fame (1936) ]]></title>
-            <guid isPermaLink="false">tt0027602</guid>
+            <title><![CDATA[ Fame (2009) ]]></title>
+            <guid isPermaLink="false">tt1016075</guid>
         </item>
         <item>
             <title><![CDATA[ Father of the Bride (1991) ]]></title>
@@ -250,8 +250,8 @@
             <guid isPermaLink="false">tt0041414</guid>
         </item>
         <item>
-            <title><![CDATA[ Godzilla (2014) ]]></title>
-            <guid isPermaLink="false">tt0831387</guid>
+            <title><![CDATA[ Godzilla (1977) ]]></title>
+            <guid isPermaLink="false">tt1543211</guid>
         </item>
         <item>
             <title><![CDATA[ Godzilla Minus One (2023) ]]></title>
@@ -654,8 +654,8 @@
             <guid isPermaLink="false">tt0332280</guid>
         </item>
         <item>
-            <title><![CDATA[ The Omen (1995) ]]></title>
-            <guid isPermaLink="false">tt0114036</guid>
+            <title><![CDATA[ The Omen (1976) ]]></title>
+            <guid isPermaLink="false">tt0075005</guid>
         </item>
         <item>
             <title><![CDATA[ The Postman (1997) ]]></title>
