@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Tue, 14 Oct 2025 02:29:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 02:30:30 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -116,6 +116,10 @@
         <item>
             <title><![CDATA[ Carrie (1976) ]]></title>
             <guid isPermaLink="false">tt0074285</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Casablanca (1943) ]]></title>
+            <guid isPermaLink="false">tt0034583</guid>
         </item>
         <item>
             <title><![CDATA[ Casper (1995) ]]></title>
