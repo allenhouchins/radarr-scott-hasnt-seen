@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Fri, 17 Oct 2025 02:29:41 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 18 Oct 2025 02:26:17 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -566,12 +566,12 @@
             <guid isPermaLink="false">tt0086425</guid>
         </item>
         <item>
-            <title><![CDATA[ The Addams Family (1991) ]]></title>
-            <guid isPermaLink="false">tt0101272</guid>
+            <title><![CDATA[ The Addams Family (2019) ]]></title>
+            <guid isPermaLink="false">tt1620981</guid>
         </item>
         <item>
-            <title><![CDATA[ The Amityville Horror (2005) ]]></title>
-            <guid isPermaLink="false">tt0384806</guid>
+            <title><![CDATA[ The Amityville Horror (1979) ]]></title>
+            <guid isPermaLink="false">tt0078767</guid>
         </item>
         <item>
             <title><![CDATA[ The Babadook (2014) ]]></title>
@@ -654,8 +654,8 @@
             <guid isPermaLink="false">tt0332280</guid>
         </item>
         <item>
-            <title><![CDATA[ The Omen (1976) ]]></title>
-            <guid isPermaLink="false">tt0075005</guid>
+            <title><![CDATA[ The Omen (1995) ]]></title>
+            <guid isPermaLink="false">tt0114036</guid>
         </item>
         <item>
             <title><![CDATA[ The Passion of the Christ (2004) ]]></title>
