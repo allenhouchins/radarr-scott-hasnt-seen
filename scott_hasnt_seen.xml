@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Wed, 22 Oct 2025 02:31:50 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 02:30:22 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -22,8 +22,8 @@
             <guid isPermaLink="false">tt0106220</guid>
         </item>
         <item>
-            <title><![CDATA[ Adventures in Babysitting (2016) ]]></title>
-            <guid isPermaLink="false">tt4456850</guid>
+            <title><![CDATA[ Adventures in Babysitting (1987) ]]></title>
+            <guid isPermaLink="false">tt0092513</guid>
         </item>
         <item>
             <title><![CDATA[ Air Bud (1997) ]]></title>
@@ -42,8 +42,8 @@
             <guid isPermaLink="false">tt1018817</guid>
         </item>
         <item>
-            <title><![CDATA[ Audition (1) ]]></title>
-            <guid isPermaLink="false">tt38237754</guid>
+            <title><![CDATA[ Audition (1980) ]]></title>
+            <guid isPermaLink="false">tt36910387</guid>
         </item>
         <item>
             <title><![CDATA[ Bad Lieutenant: Port of Call - New Orleans (2009) ]]></title>
@@ -58,8 +58,8 @@
             <guid isPermaLink="false">tt0185183</guid>
         </item>
         <item>
-            <title><![CDATA[ Before Midnight (1933) ]]></title>
-            <guid isPermaLink="false">tt0024868</guid>
+            <title><![CDATA[ Before Midnight (2013) ]]></title>
+            <guid isPermaLink="false">tt2209418</guid>
         </item>
         <item>
             <title><![CDATA[ Before Sunrise (1995) ]]></title>
@@ -186,6 +186,10 @@
             <guid isPermaLink="false">tt4653310</guid>
         </item>
         <item>
+            <title><![CDATA[ Drop Dead Gorgeous (1999) ]]></title>
+            <guid isPermaLink="false">tt0157503</guid>
+        </item>
+        <item>
             <title><![CDATA[ Dune (2021) ]]></title>
             <guid isPermaLink="false">tt1160419</guid>
         </item>
@@ -202,8 +206,8 @@
             <guid isPermaLink="false">tt0104187</guid>
         </item>
         <item>
-            <title><![CDATA[ Fame (2009) ]]></title>
-            <guid isPermaLink="false">tt1016075</guid>
+            <title><![CDATA[ Fame (1980) ]]></title>
+            <guid isPermaLink="false">tt0080716</guid>
         </item>
         <item>
             <title><![CDATA[ Father of the Bride (1991) ]]></title>
@@ -254,8 +258,8 @@
             <guid isPermaLink="false">tt0041414</guid>
         </item>
         <item>
-            <title><![CDATA[ Godzilla (1977) ]]></title>
-            <guid isPermaLink="false">tt1543211</guid>
+            <title><![CDATA[ Godzilla (2014) ]]></title>
+            <guid isPermaLink="false">tt0831387</guid>
         </item>
         <item>
             <title><![CDATA[ Godzilla Minus One (2023) ]]></title>
@@ -278,10 +282,6 @@
             <guid isPermaLink="false">tt0093148</guid>
         </item>
         <item>
-            <title><![CDATA[ High School Musical (2006) ]]></title>
-            <guid isPermaLink="false">tt0475293</guid>
-        </item>
-        <item>
             <title><![CDATA[ Highlander (1986) ]]></title>
             <guid isPermaLink="false">tt0091203</guid>
         </item>
@@ -302,8 +302,8 @@
             <guid isPermaLink="false">tt0110148</guid>
         </item>
         <item>
-            <title><![CDATA[ Jack (2004) ]]></title>
-            <guid isPermaLink="false">tt0388141</guid>
+            <title><![CDATA[ Jack (1996) ]]></title>
+            <guid isPermaLink="false">tt0116669</guid>
         </item>
         <item>
             <title><![CDATA[ James and the Giant Peach (1996) ]]></title>
@@ -422,8 +422,8 @@
             <guid isPermaLink="false">tt1598822</guid>
         </item>
         <item>
-            <title><![CDATA[ Newsies (1992) ]]></title>
-            <guid isPermaLink="false">tt0104990</guid>
+            <title><![CDATA[ Newsies (2017) ]]></title>
+            <guid isPermaLink="false">tt6346162</guid>
         </item>
         <item>
             <title><![CDATA[ Not Another Teen Movie (2001) ]]></title>
@@ -474,8 +474,8 @@
             <guid isPermaLink="false">tt0120791</guid>
         </item>
         <item>
-            <title><![CDATA[ Pretty Woman (1991) ]]></title>
-            <guid isPermaLink="false">tt0105196</guid>
+            <title><![CDATA[ Pretty Woman (1990) ]]></title>
+            <guid isPermaLink="false">tt0100405</guid>
         </item>
         <item>
             <title><![CDATA[ Raging Bull (1980) ]]></title>
@@ -558,8 +558,8 @@
             <guid isPermaLink="false">tt0108265</guid>
         </item>
         <item>
-            <title><![CDATA[ Taxi (1996) ]]></title>
-            <guid isPermaLink="false">tt0117866</guid>
+            <title><![CDATA[ Taxi (2004) ]]></title>
+            <guid isPermaLink="false">tt0316732</guid>
         </item>
         <item>
             <title><![CDATA[ Terms of Endearment (1983) ]]></title>
@@ -702,6 +702,10 @@
             <guid isPermaLink="false">tt6718170</guid>
         </item>
         <item>
+            <title><![CDATA[ The Top Secret: Murder in Mind (2016) ]]></title>
+            <guid isPermaLink="false">tt4287848</guid>
+        </item>
+        <item>
             <title><![CDATA[ The Unbearable Weight of Massive Talent (2022) ]]></title>
             <guid isPermaLink="false">tt11291274</guid>
         </item>
@@ -726,10 +730,6 @@
             <guid isPermaLink="false">tt0092099</guid>
         </item>
         <item>
-            <title><![CDATA[ Top Secret! (1984) ]]></title>
-            <guid isPermaLink="false">tt0088286</guid>
-        </item>
-        <item>
             <title><![CDATA[ Trainspotting (1996) ]]></title>
             <guid isPermaLink="false">tt0117951</guid>
         </item>
@@ -744,6 +744,10 @@
         <item>
             <title><![CDATA[ Unforgiven (1992) ]]></title>
             <guid isPermaLink="false">tt0105695</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Viva High School Musical: Mexico (2008) ]]></title>
+            <guid isPermaLink="false">tt35580689</guid>
         </item>
         <item>
             <title><![CDATA[ Waiting to Exhale (1995) ]]></title>
