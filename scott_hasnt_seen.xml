@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Thu, 23 Oct 2025 02:30:22 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 02:29:01 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -40,6 +40,10 @@
         <item>
             <title><![CDATA[ April Fool's Day (2008) ]]></title>
             <guid isPermaLink="false">tt1018817</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Arthur (2011) ]]></title>
+            <guid isPermaLink="false">tt1334512</guid>
         </item>
         <item>
             <title><![CDATA[ Audition (1980) ]]></title>
@@ -170,8 +174,8 @@
             <guid isPermaLink="false">tt0099422</guid>
         </item>
         <item>
-            <title><![CDATA[ Dirty Dancing (2017) ]]></title>
-            <guid isPermaLink="false">tt5262792</guid>
+            <title><![CDATA[ Dirty Dancing (1987) ]]></title>
+            <guid isPermaLink="false">tt0092890</guid>
         </item>
         <item>
             <title><![CDATA[ Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996) ]]></title>
@@ -254,8 +258,8 @@
             <guid isPermaLink="false">tt4513678</guid>
         </item>
         <item>
-            <title><![CDATA[ Gigi (1949) ]]></title>
-            <guid isPermaLink="false">tt0041414</guid>
+            <title><![CDATA[ Gigi (1958) ]]></title>
+            <guid isPermaLink="false">tt0051658</guid>
         </item>
         <item>
             <title><![CDATA[ Godzilla (2014) ]]></title>
@@ -654,8 +658,8 @@
             <guid isPermaLink="false">tt0332280</guid>
         </item>
         <item>
-            <title><![CDATA[ The Omen (1995) ]]></title>
-            <guid isPermaLink="false">tt0114036</guid>
+            <title><![CDATA[ The Omen (1976) ]]></title>
+            <guid isPermaLink="false">tt0075005</guid>
         </item>
         <item>
             <title><![CDATA[ The Passion of the Christ (2004) ]]></title>
