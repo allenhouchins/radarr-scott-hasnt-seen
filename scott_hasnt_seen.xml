@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Mon, 17 Nov 2025 02:32:58 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 02:32:11 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -14,8 +14,16 @@
             <guid isPermaLink="false">tt0343660</guid>
         </item>
         <item>
+            <title><![CDATA[ A Goofy Movie (1995) ]]></title>
+            <guid isPermaLink="false">tt0113198</guid>
+        </item>
+        <item>
             <title><![CDATA[ A League of Their Own (1992) ]]></title>
             <guid isPermaLink="false">tt0104694</guid>
+        </item>
+        <item>
+            <title><![CDATA[ A Woman Under the Influence (1974) ]]></title>
+            <guid isPermaLink="false">tt0072417</guid>
         </item>
         <item>
             <title><![CDATA[ Addams Family Values (1993) ]]></title>
@@ -76,6 +84,10 @@
         <item>
             <title><![CDATA[ Ben-Hur (1959) ]]></title>
             <guid isPermaLink="false">tt0052618</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Blade: Trinity (2004) ]]></title>
+            <guid isPermaLink="false">tt0359013</guid>
         </item>
         <item>
             <title><![CDATA[ Blue Streak (1999) ]]></title>
@@ -176,6 +188,10 @@
         <item>
             <title><![CDATA[ Dirty Dancing (1987) ]]></title>
             <guid isPermaLink="false">tt0092890</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Dirty Harry (1971) ]]></title>
+            <guid isPermaLink="false">tt0066999</guid>
         </item>
         <item>
             <title><![CDATA[ Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996) ]]></title>
@@ -294,6 +310,10 @@
             <guid isPermaLink="false">tt0107120</guid>
         </item>
         <item>
+            <title><![CDATA[ Hotel Transylvania (2012) ]]></title>
+            <guid isPermaLink="false">tt0837562</guid>
+        </item>
+        <item>
             <title><![CDATA[ House Party (1990) ]]></title>
             <guid isPermaLink="false">tt0099800</guid>
         </item>
@@ -342,6 +362,10 @@
             <guid isPermaLink="false">tt0250494</guid>
         </item>
         <item>
+            <title><![CDATA[ Love & Basketball (2000) ]]></title>
+            <guid isPermaLink="false">tt0199725</guid>
+        </item>
+        <item>
             <title><![CDATA[ Mad Max 2 (1981) ]]></title>
             <guid isPermaLink="false">tt0082694</guid>
         </item>
@@ -380,6 +404,10 @@
         <item>
             <title><![CDATA[ Manchester by the Sea (2016) ]]></title>
             <guid isPermaLink="false">tt4034228</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Master and Commander: The Far Side of the World (2003) ]]></title>
+            <guid isPermaLink="false">tt0311113</guid>
         </item>
         <item>
             <title><![CDATA[ Melvin and Howard (1980) ]]></title>
@@ -566,6 +594,10 @@
             <guid isPermaLink="false">tt0152930</guid>
         </item>
         <item>
+            <title><![CDATA[ Teen Witch (1989) ]]></title>
+            <guid isPermaLink="false">tt0098453</guid>
+        </item>
+        <item>
             <title><![CDATA[ Terms of Endearment (1983) ]]></title>
             <guid isPermaLink="false">tt0086425</guid>
         </item>
@@ -594,6 +626,10 @@
             <guid isPermaLink="false">tt0112579</guid>
         </item>
         <item>
+            <title><![CDATA[ The Descent (2005) ]]></title>
+            <guid isPermaLink="false">tt0435625</guid>
+        </item>
+        <item>
             <title><![CDATA[ The Devil Wears Prada (2006) ]]></title>
             <guid isPermaLink="false">tt0458352</guid>
         </item>
@@ -608,6 +644,10 @@
         <item>
             <title><![CDATA[ The Firm (1993) ]]></title>
             <guid isPermaLink="false">tt0106918</guid>
+        </item>
+        <item>
+            <title><![CDATA[ The First Omen (2024) ]]></title>
+            <guid isPermaLink="false">tt5672290</guid>
         </item>
         <item>
             <title><![CDATA[ The First Wives Club (1996) ]]></title>
@@ -632,6 +672,10 @@
         <item>
             <title><![CDATA[ The Holiday (2006) ]]></title>
             <guid isPermaLink="false">tt0457939</guid>
+        </item>
+        <item>
+            <title><![CDATA[ The Human Centipede (First Sequence) (2009) ]]></title>
+            <guid isPermaLink="false">tt1467304</guid>
         </item>
         <item>
             <title><![CDATA[ The Jerk (1979) ]]></title>
