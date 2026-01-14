@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Tue, 13 Jan 2026 02:37:54 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 02:43:05 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -274,8 +274,8 @@
             <guid isPermaLink="false">tt0051658</guid>
         </item>
         <item>
-            <title><![CDATA[ Godzilla (2014) ]]></title>
-            <guid isPermaLink="false">tt0831387</guid>
+            <title><![CDATA[ Godzilla (1998) ]]></title>
+            <guid isPermaLink="false">tt0120685</guid>
         </item>
         <item>
             <title><![CDATA[ Godzilla Minus One (2023) ]]></title>
