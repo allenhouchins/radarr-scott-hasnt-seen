@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Fri, 06 Feb 2026 02:56:33 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 02:54:01 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -98,8 +98,8 @@
             <guid isPermaLink="false">tt0064100</guid>
         </item>
         <item>
-            <title><![CDATA[ Boomerang (1992) ]]></title>
-            <guid isPermaLink="false">tt0103859</guid>
+            <title><![CDATA[ Boomerang (2015) ]]></title>
+            <guid isPermaLink="false">tt3582040</guid>
         </item>
         <item>
             <title><![CDATA[ Brainscan (1994) ]]></title>
@@ -206,10 +206,6 @@
             <guid isPermaLink="false">tt4653310</guid>
         </item>
         <item>
-            <title><![CDATA[ Drop Dead Gorgeous (1999) ]]></title>
-            <guid isPermaLink="false">tt0157503</guid>
-        </item>
-        <item>
             <title><![CDATA[ Dune (2021) ]]></title>
             <guid isPermaLink="false">tt1160419</guid>
         </item>
@@ -300,10 +296,6 @@
         <item>
             <title><![CDATA[ Harry and the Hendersons (1987) ]]></title>
             <guid isPermaLink="false">tt0093148</guid>
-        </item>
-        <item>
-            <title><![CDATA[ High School Musical (2006) ]]></title>
-            <guid isPermaLink="false">tt0475293</guid>
         </item>
         <item>
             <title><![CDATA[ Highlander (1986) ]]></title>
@@ -434,8 +426,8 @@
             <guid isPermaLink="false">tt0110598</guid>
         </item>
         <item>
-            <title><![CDATA[ My Big Fat Greek Wedding 2 (2016) ]]></title>
-            <guid isPermaLink="false">tt3760922</guid>
+            <title><![CDATA[ My Big Fat Greek Wedding (2002) ]]></title>
+            <guid isPermaLink="false">tt0259446</guid>
         </item>
         <item>
             <title><![CDATA[ My Left Foot: The Story of Christy Brown (1989) ]]></title>
@@ -796,6 +788,10 @@
         <item>
             <title><![CDATA[ Unforgiven (1992) ]]></title>
             <guid isPermaLink="false">tt0105695</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Viva High School Musical: Mexico (2008) ]]></title>
+            <guid isPermaLink="false">tt35580689</guid>
         </item>
         <item>
             <title><![CDATA[ Waiting to Exhale (1995) ]]></title>
