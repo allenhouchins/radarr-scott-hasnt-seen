@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Sun, 15 Feb 2026 03:01:10 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 03:00:22 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -296,10 +296,6 @@
         <item>
             <title><![CDATA[ Harry and the Hendersons (1987) ]]></title>
             <guid isPermaLink="false">tt0093148</guid>
-        </item>
-        <item>
-            <title><![CDATA[ High School Musical (2006) ]]></title>
-            <guid isPermaLink="false">tt0475293</guid>
         </item>
         <item>
             <title><![CDATA[ Highlander (1986) ]]></title>
@@ -792,6 +788,10 @@
         <item>
             <title><![CDATA[ Unforgiven (1992) ]]></title>
             <guid isPermaLink="false">tt0105695</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Viva High School Musical: Mexico (2008) ]]></title>
+            <guid isPermaLink="false">tt35580689</guid>
         </item>
         <item>
             <title><![CDATA[ Waiting to Exhale (1995) ]]></title>
