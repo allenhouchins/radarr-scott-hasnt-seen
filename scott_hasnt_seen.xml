@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Wed, 18 Feb 2026 02:59:40 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 02:57:12 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -46,16 +46,16 @@
             <guid isPermaLink="false">tt26047818</guid>
         </item>
         <item>
-            <title><![CDATA[ April Fool's Day (2008) ]]></title>
-            <guid isPermaLink="false">tt1018817</guid>
+            <title><![CDATA[ April Fool's Day (1986) ]]></title>
+            <guid isPermaLink="false">tt0090655</guid>
         </item>
         <item>
-            <title><![CDATA[ Arthur (2011) ]]></title>
-            <guid isPermaLink="false">tt1334512</guid>
+            <title><![CDATA[ Arthur (1981) ]]></title>
+            <guid isPermaLink="false">tt0082031</guid>
         </item>
         <item>
-            <title><![CDATA[ Audition (1980) ]]></title>
-            <guid isPermaLink="false">tt36910387</guid>
+            <title><![CDATA[ Audition (2017) ]]></title>
+            <guid isPermaLink="false">tt6904742</guid>
         </item>
         <item>
             <title><![CDATA[ Bad Lieutenant: Port of Call - New Orleans (2009) ]]></title>
@@ -118,16 +118,16 @@
             <guid isPermaLink="false">tt0179116</guid>
         </item>
         <item>
-            <title><![CDATA[ Cabaret (1927) ]]></title>
-            <guid isPermaLink="false">tt0017724</guid>
+            <title><![CDATA[ Cabaret (1972) ]]></title>
+            <guid isPermaLink="false">tt0068327</guid>
         </item>
         <item>
             <title><![CDATA[ Can't Hardly Wait (1998) ]]></title>
             <guid isPermaLink="false">tt0127723</guid>
         </item>
         <item>
-            <title><![CDATA[ Candyman (2021) ]]></title>
-            <guid isPermaLink="false">tt9347730</guid>
+            <title><![CDATA[ Candyman (1992) ]]></title>
+            <guid isPermaLink="false">tt0103919</guid>
         </item>
         <item>
             <title><![CDATA[ Carrie (1976) ]]></title>
@@ -222,8 +222,8 @@
             <guid isPermaLink="false">tt0104187</guid>
         </item>
         <item>
-            <title><![CDATA[ Fame (2009) ]]></title>
-            <guid isPermaLink="false">tt1016075</guid>
+            <title><![CDATA[ Fame (1980) ]]></title>
+            <guid isPermaLink="false">tt0080716</guid>
         </item>
         <item>
             <title><![CDATA[ Father of the Bride (1991) ]]></title>
@@ -242,8 +242,8 @@
             <guid isPermaLink="false">tt0085549</guid>
         </item>
         <item>
-            <title><![CDATA[ Footloose (2011) ]]></title>
-            <guid isPermaLink="false">tt1068242</guid>
+            <title><![CDATA[ Footloose (1984) ]]></title>
+            <guid isPermaLink="false">tt0087277</guid>
         </item>
         <item>
             <title><![CDATA[ Four Weddings and a Funeral (1994) ]]></title>
@@ -296,6 +296,10 @@
         <item>
             <title><![CDATA[ Harry and the Hendersons (1987) ]]></title>
             <guid isPermaLink="false">tt0093148</guid>
+        </item>
+        <item>
+            <title><![CDATA[ High School Musical (2006) ]]></title>
+            <guid isPermaLink="false">tt0475293</guid>
         </item>
         <item>
             <title><![CDATA[ Highlander (1986) ]]></title>
@@ -466,8 +470,8 @@
             <guid isPermaLink="false">tt0064116</guid>
         </item>
         <item>
-            <title><![CDATA[ Ordinary People (1980) ]]></title>
-            <guid isPermaLink="false">tt0081283</guid>
+            <title><![CDATA[ Ordinary People (2002) ]]></title>
+            <guid isPermaLink="false">tt0314470</guid>
         </item>
         <item>
             <title><![CDATA[ Paddington 2 (2017) ]]></title>
@@ -788,10 +792,6 @@
         <item>
             <title><![CDATA[ Unforgiven (1992) ]]></title>
             <guid isPermaLink="false">tt0105695</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Viva High School Musical: Mexico (2008) ]]></title>
-            <guid isPermaLink="false">tt35580689</guid>
         </item>
         <item>
             <title><![CDATA[ Waiting to Exhale (1995) ]]></title>
