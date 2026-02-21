@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Fri, 20 Feb 2026 02:57:12 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 02:52:59 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -230,8 +230,8 @@
             <guid isPermaLink="false">tt0101862</guid>
         </item>
         <item>
-            <title><![CDATA[ Fifty Shades of Grey (2015) ]]></title>
-            <guid isPermaLink="false">tt2322441</guid>
+            <title><![CDATA[ Fifty Shades Freed (2018) ]]></title>
+            <guid isPermaLink="false">tt4477536</guid>
         </item>
         <item>
             <title><![CDATA[ Fitzcarraldo (1982) ]]></title>
@@ -354,8 +354,8 @@
             <guid isPermaLink="false">tt3783958</guid>
         </item>
         <item>
-            <title><![CDATA[ Lady in White (1988) ]]></title>
-            <guid isPermaLink="false">tt0095484</guid>
+            <title><![CDATA[ Lady in White (2015) ]]></title>
+            <guid isPermaLink="false">tt4549688</guid>
         </item>
         <item>
             <title><![CDATA[ Legally Blonde (2001) ]]></title>
@@ -750,10 +750,6 @@
             <guid isPermaLink="false">tt6718170</guid>
         </item>
         <item>
-            <title><![CDATA[ The Top Secret: Murder in Mind (2016) ]]></title>
-            <guid isPermaLink="false">tt4287848</guid>
-        </item>
-        <item>
             <title><![CDATA[ The Unbearable Weight of Massive Talent (2022) ]]></title>
             <guid isPermaLink="false">tt11291274</guid>
         </item>
@@ -776,6 +772,10 @@
         <item>
             <title><![CDATA[ Top Gun (1986) ]]></title>
             <guid isPermaLink="false">tt0092099</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Top Secret! (1984) ]]></title>
+            <guid isPermaLink="false">tt0088286</guid>
         </item>
         <item>
             <title><![CDATA[ Trainspotting (1996) ]]></title>
