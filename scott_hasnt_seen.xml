@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Tue, 24 Feb 2026 02:58:44 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 04:49:20 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -198,12 +198,12 @@
             <guid isPermaLink="false">tt0116126</guid>
         </item>
         <item>
-            <title><![CDATA[ Don't Tell Mom the Babysitter's Dead (1991) ]]></title>
-            <guid isPermaLink="false">tt0101757</guid>
+            <title><![CDATA[ Don't Tell Mom the Babysitter's Dead (2024) ]]></title>
+            <guid isPermaLink="false">tt12444168</guid>
         </item>
         <item>
-            <title><![CDATA[ Driving Miss Daisy (2015) ]]></title>
-            <guid isPermaLink="false">tt4653310</guid>
+            <title><![CDATA[ Driving Miss Daisy (1989) ]]></title>
+            <guid isPermaLink="false">tt0097239</guid>
         </item>
         <item>
             <title><![CDATA[ Dune (2021) ]]></title>
@@ -446,10 +446,6 @@
             <guid isPermaLink="false">tt0074958</guid>
         </item>
         <item>
-            <title><![CDATA[ New Nightmare (1994) ]]></title>
-            <guid isPermaLink="false">tt0111686</guid>
-        </item>
-        <item>
             <title><![CDATA[ New Year's Eve (2011) ]]></title>
             <guid isPermaLink="false">tt1598822</guid>
         </item>
@@ -506,8 +502,8 @@
             <guid isPermaLink="false">tt0120791</guid>
         </item>
         <item>
-            <title><![CDATA[ Pretty Woman (1990) ]]></title>
-            <guid isPermaLink="false">tt0100405</guid>
+            <title><![CDATA[ Pretty Woman (1991) ]]></title>
+            <guid isPermaLink="false">tt0105196</guid>
         </item>
         <item>
             <title><![CDATA[ Raging Bull (1980) ]]></title>
@@ -578,16 +574,16 @@
             <guid isPermaLink="false">tt0457702</guid>
         </item>
         <item>
-            <title><![CDATA[ Suspiria (2018) ]]></title>
-            <guid isPermaLink="false">tt1034415</guid>
+            <title><![CDATA[ Suspiria (1977) ]]></title>
+            <guid isPermaLink="false">tt0076786</guid>
         </item>
         <item>
             <title><![CDATA[ Sweet November (2001) ]]></title>
             <guid isPermaLink="false">tt0230838</guid>
         </item>
         <item>
-            <title><![CDATA[ Swing Kids (1993) ]]></title>
-            <guid isPermaLink="false">tt0108265</guid>
+            <title><![CDATA[ Swing Kids (2018) ]]></title>
+            <guid isPermaLink="false">tt7046974</guid>
         </item>
         <item>
             <title><![CDATA[ Taxi (1998) ]]></title>
@@ -796,6 +792,10 @@
         <item>
             <title><![CDATA[ Waiting to Exhale (1995) ]]></title>
             <guid isPermaLink="false">tt0114885</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Wes Craven's New Nightmare (1994) ]]></title>
+            <guid isPermaLink="false">tt0111686</guid>
         </item>
         <item>
             <title><![CDATA[ What Women Want (2000) ]]></title>
