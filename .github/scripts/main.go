@@ -112,7 +112,15 @@ func NewScraper(apiKey string) *Scraper {
 
 // scrapeWikiPage fetches the Scott Hasn't Seen wiki page
 func (s *Scraper) scrapeWikiPage() (string, error) {
-	resp, err := s.client.Get(s.wikiURL)
+	req, err := http.NewRequest("GET", s.wikiURL, nil)
+	if err != nil {
+		return "", fmt.Errorf("failed to create request: %w", err)
+	}
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
+	req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
+	req.Header.Set("Accept-Language", "en-US,en;q=0.5")
+
+	resp, err := s.client.Do(req)
 	if err != nil {
 		return "", fmt.Errorf("failed to fetch wiki page: %w", err)
 	}
