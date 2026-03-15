@@ -100,27 +100,28 @@ type Scraper struct {
 	tmdbBaseURL string
 }
 
+// WikiAPIResponse represents the MediaWiki API parse response
+type WikiAPIResponse struct {
+	Parse struct {
+		Text struct {
+			Content string `json:"*"`
+		} `json:"text"`
+	} `json:"parse"`
+}
+
 // NewScraper creates a new scraper instance
 func NewScraper(apiKey string) *Scraper {
 	return &Scraper{
 		tmdbAPIKey:  apiKey,
 		client:      &http.Client{Timeout: 30 * time.Second},
-		wikiURL:     "https://comedybangbang.fandom.com/wiki/Scott_Hasn%27t_Seen",
+		wikiURL:     "https://comedybangbang.fandom.com/api.php?action=parse&page=Scott_Hasn%27t_Seen&prop=text&format=json",
 		tmdbBaseURL: "https://api.themoviedb.org/3",
 	}
 }
 
-// scrapeWikiPage fetches the Scott Hasn't Seen wiki page
+// scrapeWikiPage fetches the Scott Hasn't Seen wiki page via the MediaWiki API
 func (s *Scraper) scrapeWikiPage() (string, error) {
-	req, err := http.NewRequest("GET", s.wikiURL, nil)
-	if err != nil {
-		return "", fmt.Errorf("failed to create request: %w", err)
-	}
-	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
-	req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
-	req.Header.Set("Accept-Language", "en-US,en;q=0.5")
-
-	resp, err := s.client.Do(req)
+	resp, err := s.client.Get(s.wikiURL)
 	if err != nil {
 		return "", fmt.Errorf("failed to fetch wiki page: %w", err)
 	}
@@ -130,12 +131,16 @@ func (s *Scraper) scrapeWikiPage() (string, error) {
 		return "", fmt.Errorf("wiki page returned status: %d", resp.StatusCode)
 	}
 
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	if err != nil {
-		return "", fmt.Errorf("failed to parse HTML: %w", err)
+	var apiResp WikiAPIResponse
+	if err := json.NewDecoder(resp.Body).Decode(&apiResp); err != nil {
+		return "", fmt.Errorf("failed to decode wiki API response: %w", err)
 	}
 
-	return doc.Html()
+	if apiResp.Parse.Text.Content == "" {
+		return "", fmt.Errorf("wiki API returned empty content")
+	}
+
+	return apiResp.Parse.Text.Content, nil
 }
 
 // extractMovieTitles extracts movie titles from the HTML content

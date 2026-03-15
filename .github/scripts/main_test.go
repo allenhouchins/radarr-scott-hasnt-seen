@@ -70,7 +70,7 @@ func TestScraperCreation(t *testing.T) {
 		t.Errorf("Expected API key %s, got %s", apiKey, scraper.tmdbAPIKey)
 	}
 	
-	if scraper.wikiURL != "https://comedybangbang.fandom.com/wiki/Scott_Hasn%27t_Seen" {
+	if scraper.wikiURL != "https://comedybangbang.fandom.com/api.php?action=parse&page=Scott_Hasn%27t_Seen&prop=text&format=json" {
 		t.Errorf("Unexpected wiki URL: %s", scraper.wikiURL)
 	}
 	
