@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Wed, 25 Mar 2026 03:00:33 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 03:01:52 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -30,8 +30,8 @@
             <guid isPermaLink="false">tt0106220</guid>
         </item>
         <item>
-            <title><![CDATA[ Adventures in Babysitting (1987) ]]></title>
-            <guid isPermaLink="false">tt0092513</guid>
+            <title><![CDATA[ Adventures in Babysitting (2016) ]]></title>
+            <guid isPermaLink="false">tt4456850</guid>
         </item>
         <item>
             <title><![CDATA[ Air Bud (1997) ]]></title>
@@ -54,8 +54,8 @@
             <guid isPermaLink="false">tt0082031</guid>
         </item>
         <item>
-            <title><![CDATA[ Audition (2017) ]]></title>
-            <guid isPermaLink="false">tt6904742</guid>
+            <title><![CDATA[ Audition (2015) ]]></title>
+            <guid isPermaLink="false">tt4417314</guid>
         </item>
         <item>
             <title><![CDATA[ Bad Lieutenant: Port of Call New Orleans (2009) ]]></title>
@@ -202,8 +202,8 @@
             <guid isPermaLink="false">tt0101757</guid>
         </item>
         <item>
-            <title><![CDATA[ Driving Miss Daisy (1989) ]]></title>
-            <guid isPermaLink="false">tt0097239</guid>
+            <title><![CDATA[ Driving Miss Daisy (2015) ]]></title>
+            <guid isPermaLink="false">tt4653310</guid>
         </item>
         <item>
             <title><![CDATA[ Dune (2021) ]]></title>
@@ -324,6 +324,10 @@
         <item>
             <title><![CDATA[ Interview with the Vampire (1994) ]]></title>
             <guid isPermaLink="false">tt0110148</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Is Paris Burning? (1966) ]]></title>
+            <guid isPermaLink="false">tt0060814</guid>
         </item>
         <item>
             <title><![CDATA[ Jack (1996) ]]></title>
@@ -478,10 +482,6 @@
             <guid isPermaLink="false">tt0070510</guid>
         </item>
         <item>
-            <title><![CDATA[ Paris Is Burning (1991) ]]></title>
-            <guid isPermaLink="false">tt0100332</guid>
-        </item>
-        <item>
             <title><![CDATA[ Pink Flamingos (1972) ]]></title>
             <guid isPermaLink="false">tt0069089</guid>
         </item>
@@ -582,8 +582,8 @@
             <guid isPermaLink="false">tt0230838</guid>
         </item>
         <item>
-            <title><![CDATA[ Swing Kids (2018) ]]></title>
-            <guid isPermaLink="false">tt7046974</guid>
+            <title><![CDATA[ Swing Kids (1993) ]]></title>
+            <guid isPermaLink="false">tt0108265</guid>
         </item>
         <item>
             <title><![CDATA[ Taxi (1998) ]]></title>
@@ -758,8 +758,8 @@
             <guid isPermaLink="false">tt0080120</guid>
         </item>
         <item>
-            <title><![CDATA[ The Wicker Man (1973) ]]></title>
-            <guid isPermaLink="false">tt0070917</guid>
+            <title><![CDATA[ The Wicker Man (2006) ]]></title>
+            <guid isPermaLink="false">tt0450345</guid>
         </item>
         <item>
             <title><![CDATA[ Thelma & Louise (1991) ]]></title>
