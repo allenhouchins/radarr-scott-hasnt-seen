@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Thu, 26 Mar 2026 03:01:52 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 03:01:59 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -50,8 +50,8 @@
             <guid isPermaLink="false">tt0090655</guid>
         </item>
         <item>
-            <title><![CDATA[ Arthur (1981) ]]></title>
-            <guid isPermaLink="false">tt0082031</guid>
+            <title><![CDATA[ Arthur (2011) ]]></title>
+            <guid isPermaLink="false">tt1334512</guid>
         </item>
         <item>
             <title><![CDATA[ Audition (2015) ]]></title>
@@ -190,10 +190,6 @@
             <guid isPermaLink="false">tt0092890</guid>
         </item>
         <item>
-            <title><![CDATA[ Dirty Harry (1971) ]]></title>
-            <guid isPermaLink="false">tt0066999</guid>
-        </item>
-        <item>
             <title><![CDATA[ Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996) ]]></title>
             <guid isPermaLink="false">tt0116126</guid>
         </item>
@@ -218,10 +214,6 @@
             <guid isPermaLink="false">tt0112950</guid>
         </item>
         <item>
-            <title><![CDATA[ Encino Man (1992) ]]></title>
-            <guid isPermaLink="false">tt0104187</guid>
-        </item>
-        <item>
             <title><![CDATA[ Fame (1980) ]]></title>
             <guid isPermaLink="false">tt0080716</guid>
         </item>
@@ -230,8 +222,8 @@
             <guid isPermaLink="false">tt0101862</guid>
         </item>
         <item>
-            <title><![CDATA[ Fifty Shades Freed (2018) ]]></title>
-            <guid isPermaLink="false">tt4477536</guid>
+            <title><![CDATA[ Fifty Shades of Grey (2015) ]]></title>
+            <guid isPermaLink="false">tt2322441</guid>
         </item>
         <item>
             <title><![CDATA[ Fitzcarraldo (1982) ]]></title>
@@ -282,8 +274,8 @@
             <guid isPermaLink="false">tt23289160</guid>
         </item>
         <item>
-            <title><![CDATA[ Gone in 60 Seconds (1974) ]]></title>
-            <guid isPermaLink="false">tt0071571</guid>
+            <title><![CDATA[ Gone in 60 Seconds 2 (1989) ]]></title>
+            <guid isPermaLink="false">tt7701078</guid>
         </item>
         <item>
             <title><![CDATA[ Green Book (2018) ]]></title>
@@ -324,10 +316,6 @@
         <item>
             <title><![CDATA[ Interview with the Vampire (1994) ]]></title>
             <guid isPermaLink="false">tt0110148</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Is Paris Burning? (1966) ]]></title>
-            <guid isPermaLink="false">tt0060814</guid>
         </item>
         <item>
             <title><![CDATA[ Jack (1996) ]]></title>
@@ -480,6 +468,10 @@
         <item>
             <title><![CDATA[ Paper Moon (1973) ]]></title>
             <guid isPermaLink="false">tt0070510</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Paris Is Burning (1991) ]]></title>
+            <guid isPermaLink="false">tt0100332</guid>
         </item>
         <item>
             <title><![CDATA[ Pink Flamingos (1972) ]]></title>
@@ -758,8 +750,8 @@
             <guid isPermaLink="false">tt0080120</guid>
         </item>
         <item>
-            <title><![CDATA[ The Wicker Man (2006) ]]></title>
-            <guid isPermaLink="false">tt0450345</guid>
+            <title><![CDATA[ The Wicker Man (1973) ]]></title>
+            <guid isPermaLink="false">tt0070917</guid>
         </item>
         <item>
             <title><![CDATA[ Thelma & Louise (1991) ]]></title>
