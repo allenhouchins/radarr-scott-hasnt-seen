@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Fri, 27 Mar 2026 03:01:59 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 02:59:37 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -30,8 +30,8 @@
             <guid isPermaLink="false">tt0106220</guid>
         </item>
         <item>
-            <title><![CDATA[ Adventures in Babysitting (2016) ]]></title>
-            <guid isPermaLink="false">tt4456850</guid>
+            <title><![CDATA[ Adventures in Babysitting (1987) ]]></title>
+            <guid isPermaLink="false">tt0092513</guid>
         </item>
         <item>
             <title><![CDATA[ Air Bud (1997) ]]></title>
@@ -190,6 +190,10 @@
             <guid isPermaLink="false">tt0092890</guid>
         </item>
         <item>
+            <title><![CDATA[ Dirty Harry (1971) ]]></title>
+            <guid isPermaLink="false">tt0066999</guid>
+        </item>
+        <item>
             <title><![CDATA[ Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996) ]]></title>
             <guid isPermaLink="false">tt0116126</guid>
         </item>
@@ -212,6 +216,10 @@
         <item>
             <title><![CDATA[ Empire Records (1995) ]]></title>
             <guid isPermaLink="false">tt0112950</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Encino Man (1992) ]]></title>
+            <guid isPermaLink="false">tt0104187</guid>
         </item>
         <item>
             <title><![CDATA[ Fame (1980) ]]></title>
@@ -274,8 +282,8 @@
             <guid isPermaLink="false">tt23289160</guid>
         </item>
         <item>
-            <title><![CDATA[ Gone in 60 Seconds 2 (1989) ]]></title>
-            <guid isPermaLink="false">tt7701078</guid>
+            <title><![CDATA[ Gone in 60 Seconds (1974) ]]></title>
+            <guid isPermaLink="false">tt0071571</guid>
         </item>
         <item>
             <title><![CDATA[ Green Book (2018) ]]></title>
@@ -566,8 +574,8 @@
             <guid isPermaLink="false">tt0457702</guid>
         </item>
         <item>
-            <title><![CDATA[ Suspiria (1977) ]]></title>
-            <guid isPermaLink="false">tt0076786</guid>
+            <title><![CDATA[ Suspiria (2018) ]]></title>
+            <guid isPermaLink="false">tt1034415</guid>
         </item>
         <item>
             <title><![CDATA[ Sweet November (2001) ]]></title>
