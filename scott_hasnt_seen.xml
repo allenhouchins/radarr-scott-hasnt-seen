@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Mon, 06 Apr 2026 03:02:32 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 03:01:51 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -126,8 +126,8 @@
             <guid isPermaLink="false">tt0127723</guid>
         </item>
         <item>
-            <title><![CDATA[ Candyman (1992) ]]></title>
-            <guid isPermaLink="false">tt0103919</guid>
+            <title><![CDATA[ Candyman (2021) ]]></title>
+            <guid isPermaLink="false">tt9347730</guid>
         </item>
         <item>
             <title><![CDATA[ Carrie (1976) ]]></title>
@@ -758,8 +758,8 @@
             <guid isPermaLink="false">tt0080120</guid>
         </item>
         <item>
-            <title><![CDATA[ The Wicker Man (1973) ]]></title>
-            <guid isPermaLink="false">tt0070917</guid>
+            <title><![CDATA[ The Wicker Man (2006) ]]></title>
+            <guid isPermaLink="false">tt0450345</guid>
         </item>
         <item>
             <title><![CDATA[ Thelma & Louise (1991) ]]></title>
