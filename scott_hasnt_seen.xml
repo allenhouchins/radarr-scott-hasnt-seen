@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Tue, 21 Apr 2026 03:02:20 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 03:02:23 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -12,6 +12,10 @@
         <item>
             <title><![CDATA[ 50 First Dates (2004) ]]></title>
             <guid isPermaLink="false">tt0343660</guid>
+        </item>
+        <item>
+            <title><![CDATA[ 50 Shades of Gay (2017) ]]></title>
+            <guid isPermaLink="false">tt7085118</guid>
         </item>
         <item>
             <title><![CDATA[ A Goofy Movie (1995) ]]></title>
@@ -54,8 +58,8 @@
             <guid isPermaLink="false">tt1334512</guid>
         </item>
         <item>
-            <title><![CDATA[ Audition (2015) ]]></title>
-            <guid isPermaLink="false">tt4417314</guid>
+            <title><![CDATA[ Audition (2000) ]]></title>
+            <guid isPermaLink="false">tt0235198</guid>
         </item>
         <item>
             <title><![CDATA[ Bad Lieutenant: Port of Call New Orleans (2009) ]]></title>
@@ -202,8 +206,12 @@
             <guid isPermaLink="false">tt0101757</guid>
         </item>
         <item>
-            <title><![CDATA[ Driving Miss Daisy (2015) ]]></title>
-            <guid isPermaLink="false">tt4653310</guid>
+            <title><![CDATA[ Driving Miss Daisy (1989) ]]></title>
+            <guid isPermaLink="false">tt0097239</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Drop Dead Gorgeous (1999) ]]></title>
+            <guid isPermaLink="false">tt0157503</guid>
         </item>
         <item>
             <title><![CDATA[ Dune (2021) ]]></title>
@@ -228,10 +236,6 @@
         <item>
             <title><![CDATA[ Father of the Bride (1991) ]]></title>
             <guid isPermaLink="false">tt0101862</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Fifty Shades of Grey (2015) ]]></title>
-            <guid isPermaLink="false">tt2322441</guid>
         </item>
         <item>
             <title><![CDATA[ Fitzcarraldo (1982) ]]></title>
@@ -326,8 +330,8 @@
             <guid isPermaLink="false">tt0110148</guid>
         </item>
         <item>
-            <title><![CDATA[ Jack (1996) ]]></title>
-            <guid isPermaLink="false">tt0116669</guid>
+            <title><![CDATA[ Jack (2019) ]]></title>
+            <guid isPermaLink="false">tt10265934</guid>
         </item>
         <item>
             <title><![CDATA[ James and the Giant Peach (1996) ]]></title>
@@ -354,8 +358,8 @@
             <guid isPermaLink="false">tt3783958</guid>
         </item>
         <item>
-            <title><![CDATA[ Lady in White (2015) ]]></title>
-            <guid isPermaLink="false">tt4549688</guid>
+            <title><![CDATA[ Lady in White (1988) ]]></title>
+            <guid isPermaLink="false">tt0095484</guid>
         </item>
         <item>
             <title><![CDATA[ Legally Blonde (2001) ]]></title>
@@ -458,16 +462,16 @@
             <guid isPermaLink="false">tt0277371</guid>
         </item>
         <item>
-            <title><![CDATA[ Oldboy (2013) ]]></title>
-            <guid isPermaLink="false">tt1321511</guid>
+            <title><![CDATA[ Oldboy (2003) ]]></title>
+            <guid isPermaLink="false">tt0364569</guid>
         </item>
         <item>
             <title><![CDATA[ Once Upon a Time in the West (1968) ]]></title>
             <guid isPermaLink="false">tt0064116</guid>
         </item>
         <item>
-            <title><![CDATA[ Ordinary People (2002) ]]></title>
-            <guid isPermaLink="false">tt0314470</guid>
+            <title><![CDATA[ Ordinary People (1980) ]]></title>
+            <guid isPermaLink="false">tt0081283</guid>
         </item>
         <item>
             <title><![CDATA[ Paddington 2 (2017) ]]></title>
@@ -502,8 +506,8 @@
             <guid isPermaLink="false">tt0120791</guid>
         </item>
         <item>
-            <title><![CDATA[ Pretty Woman (1991) ]]></title>
-            <guid isPermaLink="false">tt0105196</guid>
+            <title><![CDATA[ Pretty Woman (1990) ]]></title>
+            <guid isPermaLink="false">tt0100405</guid>
         </item>
         <item>
             <title><![CDATA[ Raging Bull (1980) ]]></title>
@@ -582,8 +586,8 @@
             <guid isPermaLink="false">tt0230838</guid>
         </item>
         <item>
-            <title><![CDATA[ Swing Kids (1993) ]]></title>
-            <guid isPermaLink="false">tt0108265</guid>
+            <title><![CDATA[ Swing Kids (2018) ]]></title>
+            <guid isPermaLink="false">tt7046974</guid>
         </item>
         <item>
             <title><![CDATA[ Taxi (1998) ]]></title>
