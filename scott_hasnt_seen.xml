@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Thu, 23 Apr 2026 03:02:19 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 03:02:48 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -126,8 +126,8 @@
             <guid isPermaLink="false">tt0127723</guid>
         </item>
         <item>
-            <title><![CDATA[ Candyman (2021) ]]></title>
-            <guid isPermaLink="false">tt9347730</guid>
+            <title><![CDATA[ Candyman (1992) ]]></title>
+            <guid isPermaLink="false">tt0103919</guid>
         </item>
         <item>
             <title><![CDATA[ Carrie (1976) ]]></title>
@@ -246,8 +246,8 @@
             <guid isPermaLink="false">tt0085549</guid>
         </item>
         <item>
-            <title><![CDATA[ Footloose (1984) ]]></title>
-            <guid isPermaLink="false">tt0087277</guid>
+            <title><![CDATA[ Footloose (2011) ]]></title>
+            <guid isPermaLink="false">tt1068242</guid>
         </item>
         <item>
             <title><![CDATA[ Four Weddings and a Funeral (1994) ]]></title>
@@ -446,6 +446,10 @@
             <guid isPermaLink="false">tt0110632</guid>
         </item>
         <item>
+            <title><![CDATA[ Network (1976) ]]></title>
+            <guid isPermaLink="false">tt0074958</guid>
+        </item>
+        <item>
             <title><![CDATA[ New Year's Eve (2011) ]]></title>
             <guid isPermaLink="false">tt1598822</guid>
         </item>
@@ -498,8 +502,8 @@
             <guid isPermaLink="false">tt0100395</guid>
         </item>
         <item>
-            <title><![CDATA[ Practical Magic 2 (2026) ]]></title>
-            <guid isPermaLink="false">tt32588798</guid>
+            <title><![CDATA[ Practical Magic (1998) ]]></title>
+            <guid isPermaLink="false">tt0120791</guid>
         </item>
         <item>
             <title><![CDATA[ Pretty Woman (1990) ]]></title>
@@ -740,10 +744,6 @@
         <item>
             <title><![CDATA[ The Sisterhood of the Traveling Pants (2005) ]]></title>
             <guid isPermaLink="false">tt0403508</guid>
-        </item>
-        <item>
-            <title><![CDATA[ The Social Network (2010) ]]></title>
-            <guid isPermaLink="false">tt1285016</guid>
         </item>
         <item>
             <title><![CDATA[ The Super Mario Bros. Movie (2023) ]]></title>
