@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Thu, 07 May 2026 03:03:47 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 03:02:34 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -50,10 +50,6 @@
             <guid isPermaLink="false">tt0090655</guid>
         </item>
         <item>
-            <title><![CDATA[ Arthur and the Invisibles (2006) ]]></title>
-            <guid isPermaLink="false">tt0344854</guid>
-        </item>
-        <item>
             <title><![CDATA[ Audition (2000) ]]></title>
             <guid isPermaLink="false">tt0235198</guid>
         </item>
@@ -64,10 +60,6 @@
         <item>
             <title><![CDATA[ Barbarella (1968) ]]></title>
             <guid isPermaLink="false">tt0062711</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Battlefield Earth (2000) ]]></title>
-            <guid isPermaLink="false">tt0185183</guid>
         </item>
         <item>
             <title><![CDATA[ Before Midnight (2013) ]]></title>
@@ -198,20 +190,12 @@
             <guid isPermaLink="false">tt0116126</guid>
         </item>
         <item>
-            <title><![CDATA[ Don't Tell Mom the Babysitter's Dead (1991) ]]></title>
-            <guid isPermaLink="false">tt0101757</guid>
-        </item>
-        <item>
             <title><![CDATA[ Driving Miss Daisy (1989) ]]></title>
             <guid isPermaLink="false">tt0097239</guid>
         </item>
         <item>
             <title><![CDATA[ Drop Dead Gorgeous (1999) ]]></title>
             <guid isPermaLink="false">tt0157503</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Dune (2021) ]]></title>
-            <guid isPermaLink="false">tt1160419</guid>
         </item>
         <item>
             <title><![CDATA[ Earth Girls Are Easy (1988) ]]></title>
@@ -246,10 +230,6 @@
             <guid isPermaLink="false">tt0085549</guid>
         </item>
         <item>
-            <title><![CDATA[ Footloose (2011) ]]></title>
-            <guid isPermaLink="false">tt1068242</guid>
-        </item>
-        <item>
             <title><![CDATA[ Four Weddings and a Funeral (1994) ]]></title>
             <guid isPermaLink="false">tt0109831</guid>
         </item>
@@ -272,10 +252,6 @@
         <item>
             <title><![CDATA[ Ghostbusters: Afterlife (2021) ]]></title>
             <guid isPermaLink="false">tt4513678</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Gigi (1958) ]]></title>
-            <guid isPermaLink="false">tt0051658</guid>
         </item>
         <item>
             <title><![CDATA[ Godzilla (2014) ]]></title>
@@ -494,10 +470,6 @@
             <guid isPermaLink="false">tt0134847</guid>
         </item>
         <item>
-            <title><![CDATA[ Point Break (1991) ]]></title>
-            <guid isPermaLink="false">tt0102685</guid>
-        </item>
-        <item>
             <title><![CDATA[ Postcards from the Edge (1990) ]]></title>
             <guid isPermaLink="false">tt0100395</guid>
         </item>
@@ -516,10 +488,6 @@
         <item>
             <title><![CDATA[ Reds (1981) ]]></title>
             <guid isPermaLink="false">tt0082979</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Road House (2024) ]]></title>
-            <guid isPermaLink="false">tt3359350</guid>
         </item>
         <item>
             <title><![CDATA[ Rocky IV (1985) ]]></title>
@@ -562,10 +530,6 @@
             <guid isPermaLink="false">tt0108147</guid>
         </item>
         <item>
-            <title><![CDATA[ Sophie's Choice (1982) ]]></title>
-            <guid isPermaLink="false">tt0084707</guid>
-        </item>
-        <item>
             <title><![CDATA[ Space Jam (1996) ]]></title>
             <guid isPermaLink="false">tt0117705</guid>
         </item>
@@ -602,10 +566,6 @@
             <guid isPermaLink="false">tt0086425</guid>
         </item>
         <item>
-            <title><![CDATA[ The Addams Family (1991) ]]></title>
-            <guid isPermaLink="false">tt0101272</guid>
-        </item>
-        <item>
             <title><![CDATA[ The Amityville Horror (1979) ]]></title>
             <guid isPermaLink="false">tt0078767</guid>
         </item>
@@ -632,10 +592,6 @@
         <item>
             <title><![CDATA[ The Devil Wears Prada (2006) ]]></title>
             <guid isPermaLink="false">tt0458352</guid>
-        </item>
-        <item>
-            <title><![CDATA[ The Emperor's New Groove (2000) ]]></title>
-            <guid isPermaLink="false">tt0120917</guid>
         </item>
         <item>
             <title><![CDATA[ The English Patient (1996) ]]></title>
@@ -674,10 +630,6 @@
             <guid isPermaLink="false">tt0457939</guid>
         </item>
         <item>
-            <title><![CDATA[ The Human Centipede (First Sequence) (2009) ]]></title>
-            <guid isPermaLink="false">tt1467304</guid>
-        </item>
-        <item>
             <title><![CDATA[ The Jerk (1979) ]]></title>
             <guid isPermaLink="false">tt0079367</guid>
         </item>
@@ -696,14 +648,6 @@
         <item>
             <title><![CDATA[ The NeverEnding Story (1984) ]]></title>
             <guid isPermaLink="false">tt0088323</guid>
-        </item>
-        <item>
-            <title><![CDATA[ The Notebook (2004) ]]></title>
-            <guid isPermaLink="false">tt0332280</guid>
-        </item>
-        <item>
-            <title><![CDATA[ The Omen (1976) ]]></title>
-            <guid isPermaLink="false">tt0075005</guid>
         </item>
         <item>
             <title><![CDATA[ The Passion of the Christ (2004) ]]></title>
