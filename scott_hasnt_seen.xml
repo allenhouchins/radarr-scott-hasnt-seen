@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Tue, 12 May 2026 03:03:42 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 03:03:52 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -770,8 +770,8 @@
             <guid isPermaLink="false">tt0103074</guid>
         </item>
         <item>
-            <title><![CDATA[ Top Gun (1986) ]]></title>
-            <guid isPermaLink="false">tt0092099</guid>
+            <title><![CDATA[ Top Gun: Maverick (2022) ]]></title>
+            <guid isPermaLink="false">tt1745960</guid>
         </item>
         <item>
             <title><![CDATA[ Top Secret! (1984) ]]></title>
