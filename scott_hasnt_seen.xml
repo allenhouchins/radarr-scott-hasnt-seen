@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Thu, 21 May 2026 03:04:40 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 03:04:25 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -330,10 +330,6 @@
             <guid isPermaLink="false">tt0110148</guid>
         </item>
         <item>
-            <title><![CDATA[ Jack Reacher (2012) ]]></title>
-            <guid isPermaLink="false">tt0790724</guid>
-        </item>
-        <item>
             <title><![CDATA[ James and the Giant Peach (1996) ]]></title>
             <guid isPermaLink="false">tt0116683</guid>
         </item>
@@ -470,8 +466,8 @@
             <guid isPermaLink="false">tt0064116</guid>
         </item>
         <item>
-            <title><![CDATA[ Ordinary People (1980) ]]></title>
-            <guid isPermaLink="false">tt0081283</guid>
+            <title><![CDATA[ Ordinary People (2018) ]]></title>
+            <guid isPermaLink="false">tt9174334</guid>
         </item>
         <item>
             <title><![CDATA[ Paddington 2 (2017) ]]></title>
@@ -768,6 +764,10 @@
         <item>
             <title><![CDATA[ Thelma & Louise (1991) ]]></title>
             <guid isPermaLink="false">tt0103074</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Tom Clancy's Jack Ryan: Ghost War (2026) ]]></title>
+            <guid isPermaLink="false">tt34378301</guid>
         </item>
         <item>
             <title><![CDATA[ Top Gun (1986) ]]></title>
