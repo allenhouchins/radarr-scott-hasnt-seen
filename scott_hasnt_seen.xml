@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Mon, 13 Jul 2026 05:29:45 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 04:43:38 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -328,10 +328,6 @@
         <item>
             <title><![CDATA[ Interview with the Vampire (1994) ]]></title>
             <guid isPermaLink="false">tt0110148</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Jack Reacher (2012) ]]></title>
-            <guid isPermaLink="false">tt0790724</guid>
         </item>
         <item>
             <title><![CDATA[ James and the Giant Peach (1996) ]]></title>
@@ -768,6 +764,10 @@
         <item>
             <title><![CDATA[ Thelma & Louise (1991) ]]></title>
             <guid isPermaLink="false">tt0103074</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Tom Clancy's Jack Ryan: Ghost War (2026) ]]></title>
+            <guid isPermaLink="false">tt34378301</guid>
         </item>
         <item>
             <title><![CDATA[ Top Gun: Maverick (2022) ]]></title>
