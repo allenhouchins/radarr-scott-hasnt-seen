@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Mon, 20 Jul 2026 05:32:18 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 05:14:05 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -48,10 +48,6 @@
         <item>
             <title><![CDATA[ April Fool's Day (1986) ]]></title>
             <guid isPermaLink="false">tt0090655</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Arthur and the Invisibles (2006) ]]></title>
-            <guid isPermaLink="false">tt0344854</guid>
         </item>
         <item>
             <title><![CDATA[ Audition (2000) ]]></title>
@@ -348,6 +344,10 @@
         <item>
             <title><![CDATA[ Kindergarten Cop (1990) ]]></title>
             <guid isPermaLink="false">tt0099938</guid>
+        </item>
+        <item>
+            <title><![CDATA[ King Arthur (2004) ]]></title>
+            <guid isPermaLink="false">tt0349683</guid>
         </item>
         <item>
             <title><![CDATA[ Kramer vs. Kramer (1979) ]]></title>
