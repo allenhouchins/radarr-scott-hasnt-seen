@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Sun, 26 Jul 2026 05:24:24 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 05:41:42 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -158,8 +158,8 @@
             <guid isPermaLink="false">tt0080549</guid>
         </item>
         <item>
-            <title><![CDATA[ Conan the Barbarian (2011) ]]></title>
-            <guid isPermaLink="false">tt0816462</guid>
+            <title><![CDATA[ Conan the Barbarian (1982) ]]></title>
+            <guid isPermaLink="false">tt0082198</guid>
         </item>
         <item>
             <title><![CDATA[ Cool Hand Luke (1967) ]]></title>
@@ -222,8 +222,8 @@
             <guid isPermaLink="false">tt0104187</guid>
         </item>
         <item>
-            <title><![CDATA[ Fame (2009) ]]></title>
-            <guid isPermaLink="false">tt1016075</guid>
+            <title><![CDATA[ Fame (1980) ]]></title>
+            <guid isPermaLink="false">tt0080716</guid>
         </item>
         <item>
             <title><![CDATA[ Father of the Bride (1991) ]]></title>
