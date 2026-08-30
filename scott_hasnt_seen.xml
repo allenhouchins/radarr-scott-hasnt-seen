@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Sat, 29 Aug 2026 08:28:19 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 07:42:17 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -122,8 +122,8 @@
             <guid isPermaLink="false">tt0127723</guid>
         </item>
         <item>
-            <title><![CDATA[ Candyman (2021) ]]></title>
-            <guid isPermaLink="false">tt9347730</guid>
+            <title><![CDATA[ Candyman (1992) ]]></title>
+            <guid isPermaLink="false">tt0103919</guid>
         </item>
         <item>
             <title><![CDATA[ Carrie (1976) ]]></title>
@@ -466,8 +466,8 @@
             <guid isPermaLink="false">tt0064116</guid>
         </item>
         <item>
-            <title><![CDATA[ Ordinary People (1980) ]]></title>
-            <guid isPermaLink="false">tt0081283</guid>
+            <title><![CDATA[ Ordinary People (2018) ]]></title>
+            <guid isPermaLink="false">tt9174334</guid>
         </item>
         <item>
             <title><![CDATA[ Paddington 2 (2017) ]]></title>
@@ -698,8 +698,8 @@
             <guid isPermaLink="false">tt0332280</guid>
         </item>
         <item>
-            <title><![CDATA[ The Omen (2006) ]]></title>
-            <guid isPermaLink="false">tt0466909</guid>
+            <title><![CDATA[ The Omen (1976) ]]></title>
+            <guid isPermaLink="false">tt0075005</guid>
         </item>
         <item>
             <title><![CDATA[ The Passion of the Christ (2004) ]]></title>
