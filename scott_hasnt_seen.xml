@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Fri, 04 Sep 2026 06:47:23 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 06:33:22 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -490,8 +490,8 @@
             <guid isPermaLink="false">tt0134847</guid>
         </item>
         <item>
-            <title><![CDATA[ Point Break (2015) ]]></title>
-            <guid isPermaLink="false">tt2058673</guid>
+            <title><![CDATA[ Point Break (1991) ]]></title>
+            <guid isPermaLink="false">tt0102685</guid>
         </item>
         <item>
             <title><![CDATA[ Postcards from the Edge (1990) ]]></title>
