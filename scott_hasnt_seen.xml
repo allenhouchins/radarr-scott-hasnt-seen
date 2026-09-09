@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Tue, 08 Sep 2026 06:46:42 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 06:55:41 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -598,8 +598,8 @@
             <guid isPermaLink="false">tt0086425</guid>
         </item>
         <item>
-            <title><![CDATA[ The Addams Family (2019) ]]></title>
-            <guid isPermaLink="false">tt1620981</guid>
+            <title><![CDATA[ The Addams Family (1991) ]]></title>
+            <guid isPermaLink="false">tt0101272</guid>
         </item>
         <item>
             <title><![CDATA[ The Amityville Horror (2005) ]]></title>
@@ -770,8 +770,8 @@
             <guid isPermaLink="false">tt0103074</guid>
         </item>
         <item>
-            <title><![CDATA[ Top Gun: Maverick (2022) ]]></title>
-            <guid isPermaLink="false">tt1745960</guid>
+            <title><![CDATA[ Top Gun (1986) ]]></title>
+            <guid isPermaLink="false">tt0092099</guid>
         </item>
         <item>
             <title><![CDATA[ Top Secret! (1984) ]]></title>
