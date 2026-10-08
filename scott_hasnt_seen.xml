@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Wed, 07 Oct 2026 07:58:40 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 08:13:05 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -226,10 +226,6 @@
             <guid isPermaLink="false">tt0104187</guid>
         </item>
         <item>
-            <title><![CDATA[ Fame (1980) ]]></title>
-            <guid isPermaLink="false">tt0080716</guid>
-        </item>
-        <item>
             <title><![CDATA[ Father of the Bride (1991) ]]></title>
             <guid isPermaLink="false">tt0101862</guid>
         </item>
@@ -360,6 +356,10 @@
         <item>
             <title><![CDATA[ Lady in White (2015) ]]></title>
             <guid isPermaLink="false">tt4549688</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Late Fame (2026) ]]></title>
+            <guid isPermaLink="false">tt32298494</guid>
         </item>
         <item>
             <title><![CDATA[ Legally Blonde (2001) ]]></title>
