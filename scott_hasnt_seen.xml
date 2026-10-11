@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Sat, 10 Oct 2026 07:56:45 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 08:04:21 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -30,8 +30,8 @@
             <guid isPermaLink="false">tt0106220</guid>
         </item>
         <item>
-            <title><![CDATA[ Adventures in Babysitting (2016) ]]></title>
-            <guid isPermaLink="false">tt4456850</guid>
+            <title><![CDATA[ Adventures in Babysitting (1987) ]]></title>
+            <guid isPermaLink="false">tt0092513</guid>
         </item>
         <item>
             <title><![CDATA[ Air Bud (1997) ]]></title>
@@ -48,10 +48,6 @@
         <item>
             <title><![CDATA[ April Fool's Day (1986) ]]></title>
             <guid isPermaLink="false">tt0090655</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Arthur the King (2024) ]]></title>
-            <guid isPermaLink="false">tt10720352</guid>
         </item>
         <item>
             <title><![CDATA[ Audition (2000) ]]></title>
@@ -314,8 +310,8 @@
             <guid isPermaLink="false">tt0837562</guid>
         </item>
         <item>
-            <title><![CDATA[ House Party (1990) ]]></title>
-            <guid isPermaLink="false">tt0099800</guid>
+            <title><![CDATA[ House Party (2023) ]]></title>
+            <guid isPermaLink="false">tt8005118</guid>
         </item>
         <item>
             <title><![CDATA[ Inspector Gadget (1999) ]]></title>
@@ -324,6 +320,10 @@
         <item>
             <title><![CDATA[ Interview with the Vampire (1994) ]]></title>
             <guid isPermaLink="false">tt0110148</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Is Paris Burning? (1966) ]]></title>
+            <guid isPermaLink="false">tt0060814</guid>
         </item>
         <item>
             <title><![CDATA[ Jack Reacher (2012) ]]></title>
@@ -346,6 +346,10 @@
             <guid isPermaLink="false">tt0099938</guid>
         </item>
         <item>
+            <title><![CDATA[ King Arthur (2004) ]]></title>
+            <guid isPermaLink="false">tt0349683</guid>
+        </item>
+        <item>
             <title><![CDATA[ Kramer vs. Kramer (1979) ]]></title>
             <guid isPermaLink="false">tt0079417</guid>
         </item>
@@ -354,8 +358,8 @@
             <guid isPermaLink="false">tt3783958</guid>
         </item>
         <item>
-            <title><![CDATA[ Lady in White (2015) ]]></title>
-            <guid isPermaLink="false">tt4549688</guid>
+            <title><![CDATA[ Lady in White (1988) ]]></title>
+            <guid isPermaLink="false">tt0095484</guid>
         </item>
         <item>
             <title><![CDATA[ Late Fame (2026) ]]></title>
@@ -458,8 +462,8 @@
             <guid isPermaLink="false">tt0277371</guid>
         </item>
         <item>
-            <title><![CDATA[ Oldboy (2013) ]]></title>
-            <guid isPermaLink="false">tt1321511</guid>
+            <title><![CDATA[ Oldboy (2003) ]]></title>
+            <guid isPermaLink="false">tt0364569</guid>
         </item>
         <item>
             <title><![CDATA[ Once Upon a Time in the West (1968) ]]></title>
@@ -476,10 +480,6 @@
         <item>
             <title><![CDATA[ Paper Moon (1973) ]]></title>
             <guid isPermaLink="false">tt0070510</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Paris Is Burning (1991) ]]></title>
-            <guid isPermaLink="false">tt0100332</guid>
         </item>
         <item>
             <title><![CDATA[ Pink Flamingos (1972) ]]></title>
@@ -504,10 +504,6 @@
         <item>
             <title><![CDATA[ Pretty Woman (1990) ]]></title>
             <guid isPermaLink="false">tt0100405</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Rabbit Trap (2025) ]]></title>
-            <guid isPermaLink="false">tt29567402</guid>
         </item>
         <item>
             <title><![CDATA[ Raging Bull (1980) ]]></title>
@@ -606,8 +602,8 @@
             <guid isPermaLink="false">tt1620981</guid>
         </item>
         <item>
-            <title><![CDATA[ The Amityville Horror (1979) ]]></title>
-            <guid isPermaLink="false">tt0078767</guid>
+            <title><![CDATA[ The Amityville Horror (2005) ]]></title>
+            <guid isPermaLink="false">tt0384806</guid>
         </item>
         <item>
             <title><![CDATA[ The Babadook (2014) ]]></title>
@@ -682,8 +678,8 @@
             <guid isPermaLink="false">tt0079367</guid>
         </item>
         <item>
-            <title><![CDATA[ The Little Vampire (2000) ]]></title>
-            <guid isPermaLink="false">tt0192255</guid>
+            <title><![CDATA[ The Little Vampire 3D (2017) ]]></title>
+            <guid isPermaLink="false">tt4729560</guid>
         </item>
         <item>
             <title><![CDATA[ The Mighty Ducks (1992) ]]></title>
@@ -784,6 +780,10 @@
         <item>
             <title><![CDATA[ Trainspotting (1996) ]]></title>
             <guid isPermaLink="false">tt0117951</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Trap (2024) ]]></title>
+            <guid isPermaLink="false">tt26753003</guid>
         </item>
         <item>
             <title><![CDATA[ Troop Beverly Hills (1989) ]]></title>
