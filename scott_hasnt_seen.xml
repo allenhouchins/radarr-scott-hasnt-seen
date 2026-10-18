@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Sat, 17 Oct 2026 06:24:56 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 06:50:22 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -646,6 +646,10 @@
             <guid isPermaLink="false">tt5672290</guid>
         </item>
         <item>
+            <title><![CDATA[ The First Omen (2024) ]]></title>
+            <guid isPermaLink="false">tt5672290</guid>
+        </item>
+        <item>
             <title><![CDATA[ The First Wives Club (1996) ]]></title>
             <guid isPermaLink="false">tt0116313</guid>
         </item>
@@ -696,10 +700,6 @@
         <item>
             <title><![CDATA[ The Notebook (2004) ]]></title>
             <guid isPermaLink="false">tt0332280</guid>
-        </item>
-        <item>
-            <title><![CDATA[ The Omen (1976) ]]></title>
-            <guid isPermaLink="false">tt0075005</guid>
         </item>
         <item>
             <title><![CDATA[ The Passion of the Christ (2004) ]]></title>
