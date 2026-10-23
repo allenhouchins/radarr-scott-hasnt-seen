@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Thu, 22 Oct 2026 06:53:15 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 06:47:24 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -206,8 +206,8 @@
             <guid isPermaLink="false">tt0157503</guid>
         </item>
         <item>
-            <title><![CDATA[ Dune: Part Three (2026) ]]></title>
-            <guid isPermaLink="false">tt31378509</guid>
+            <title><![CDATA[ Dune (2021) ]]></title>
+            <guid isPermaLink="false">tt1160419</guid>
         </item>
         <item>
             <title><![CDATA[ Earth Girls Are Easy (1988) ]]></title>
@@ -270,12 +270,12 @@
             <guid isPermaLink="false">tt0051658</guid>
         </item>
         <item>
-            <title><![CDATA[ Godzilla Minus One (2023) ]]></title>
-            <guid isPermaLink="false">tt23289160</guid>
+            <title><![CDATA[ Godzilla (2014) ]]></title>
+            <guid isPermaLink="false">tt0831387</guid>
         </item>
         <item>
-            <title><![CDATA[ Godzilla Minus Zero (2026) ]]></title>
-            <guid isPermaLink="false">tt34384661</guid>
+            <title><![CDATA[ Godzilla Minus One (2023) ]]></title>
+            <guid isPermaLink="false">tt23289160</guid>
         </item>
         <item>
             <title><![CDATA[ Gone in 60 Seconds (1974) ]]></title>
