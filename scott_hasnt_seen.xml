@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Thu, 29 Oct 2026 07:52:15 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 07:55:47 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -222,8 +222,8 @@
             <guid isPermaLink="false">tt0104187</guid>
         </item>
         <item>
-            <title><![CDATA[ Father of the Bride (1991) ]]></title>
-            <guid isPermaLink="false">tt0101862</guid>
+            <title><![CDATA[ Father of the Bride (2022) ]]></title>
+            <guid isPermaLink="false">tt13249596</guid>
         </item>
         <item>
             <title><![CDATA[ Fifty Shades of Grey (2015) ]]></title>
@@ -602,8 +602,8 @@
             <guid isPermaLink="false">tt0101272</guid>
         </item>
         <item>
-            <title><![CDATA[ The Amityville Horror (2005) ]]></title>
-            <guid isPermaLink="false">tt0384806</guid>
+            <title><![CDATA[ The Amityville Horror (1979) ]]></title>
+            <guid isPermaLink="false">tt0078767</guid>
         </item>
         <item>
             <title><![CDATA[ The Babadook (2014) ]]></title>
