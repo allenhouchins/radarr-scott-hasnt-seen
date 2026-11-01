@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Sat, 31 Oct 2026 07:48:48 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 08:29:15 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -322,10 +322,6 @@
             <guid isPermaLink="false">tt0110148</guid>
         </item>
         <item>
-            <title><![CDATA[ Is Paris Burning? (1966) ]]></title>
-            <guid isPermaLink="false">tt0060814</guid>
-        </item>
-        <item>
             <title><![CDATA[ Jack Reacher (2012) ]]></title>
             <guid isPermaLink="false">tt0790724</guid>
         </item>
@@ -482,6 +478,10 @@
             <guid isPermaLink="false">tt0070510</guid>
         </item>
         <item>
+            <title><![CDATA[ Paris Is Burning (1991) ]]></title>
+            <guid isPermaLink="false">tt0100332</guid>
+        </item>
+        <item>
             <title><![CDATA[ Pink Flamingos (1972) ]]></title>
             <guid isPermaLink="false">tt0069089</guid>
         </item>
@@ -490,8 +490,8 @@
             <guid isPermaLink="false">tt0134847</guid>
         </item>
         <item>
-            <title><![CDATA[ Point Break (1991) ]]></title>
-            <guid isPermaLink="false">tt0102685</guid>
+            <title><![CDATA[ Point Break (2015) ]]></title>
+            <guid isPermaLink="false">tt2058673</guid>
         </item>
         <item>
             <title><![CDATA[ Postcards from the Edge (1990) ]]></title>
@@ -574,8 +574,8 @@
             <guid isPermaLink="false">tt0457702</guid>
         </item>
         <item>
-            <title><![CDATA[ Suspiria (1977) ]]></title>
-            <guid isPermaLink="false">tt0076786</guid>
+            <title><![CDATA[ Suspiria (2018) ]]></title>
+            <guid isPermaLink="false">tt1034415</guid>
         </item>
         <item>
             <title><![CDATA[ Sweet November (2001) ]]></title>
