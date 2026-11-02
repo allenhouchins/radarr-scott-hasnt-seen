@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Sun, 01 Nov 2026 08:29:15 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 08:40:48 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -310,8 +310,8 @@
             <guid isPermaLink="false">tt0837562</guid>
         </item>
         <item>
-            <title><![CDATA[ House Party (2023) ]]></title>
-            <guid isPermaLink="false">tt8005118</guid>
+            <title><![CDATA[ House Party (1990) ]]></title>
+            <guid isPermaLink="false">tt0099800</guid>
         </item>
         <item>
             <title><![CDATA[ Inspector Gadget (1999) ]]></title>
@@ -320,6 +320,10 @@
         <item>
             <title><![CDATA[ Interview with the Vampire (1994) ]]></title>
             <guid isPermaLink="false">tt0110148</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Is Paris Burning? (1966) ]]></title>
+            <guid isPermaLink="false">tt0060814</guid>
         </item>
         <item>
             <title><![CDATA[ Jack Reacher (2012) ]]></title>
@@ -478,10 +482,6 @@
             <guid isPermaLink="false">tt0070510</guid>
         </item>
         <item>
-            <title><![CDATA[ Paris Is Burning (1991) ]]></title>
-            <guid isPermaLink="false">tt0100332</guid>
-        </item>
-        <item>
             <title><![CDATA[ Pink Flamingos (1972) ]]></title>
             <guid isPermaLink="false">tt0069089</guid>
         </item>
@@ -612,10 +612,6 @@
         <item>
             <title><![CDATA[ The Birdcage (1996) ]]></title>
             <guid isPermaLink="false">tt0115685</guid>
-        </item>
-        <item>
-            <title><![CDATA[ The Bodyguard (1992) ]]></title>
-            <guid isPermaLink="false">tt0103855</guid>
         </item>
         <item>
             <title><![CDATA[ The Bridges of Madison County (1995) ]]></title>
