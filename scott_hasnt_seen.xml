@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Tue, 03 Nov 2026 08:52:07 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 08:21:18 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -126,8 +126,8 @@
             <guid isPermaLink="false">tt0103919</guid>
         </item>
         <item>
-            <title><![CDATA[ Carrie (1976) ]]></title>
-            <guid isPermaLink="false">tt0074285</guid>
+            <title><![CDATA[ Carrie (2013) ]]></title>
+            <guid isPermaLink="false">tt1939659</guid>
         </item>
         <item>
             <title><![CDATA[ Casablanca (1943) ]]></title>
@@ -258,8 +258,8 @@
             <guid isPermaLink="false">tt0057076</guid>
         </item>
         <item>
-            <title><![CDATA[ Ghost Rider (2007) ]]></title>
-            <guid isPermaLink="false">tt0259324</guid>
+            <title><![CDATA[ Ghost Soldier (2026) ]]></title>
+            <guid isPermaLink="false">tt38686316</guid>
         </item>
         <item>
             <title><![CDATA[ Ghostbusters: Afterlife (2021) ]]></title>
@@ -462,8 +462,8 @@
             <guid isPermaLink="false">tt0277371</guid>
         </item>
         <item>
-            <title><![CDATA[ Oldboy (2013) ]]></title>
-            <guid isPermaLink="false">tt1321511</guid>
+            <title><![CDATA[ Oldboy (2003) ]]></title>
+            <guid isPermaLink="false">tt0364569</guid>
         </item>
         <item>
             <title><![CDATA[ Once Upon a Time in the West (1968) ]]></title>
