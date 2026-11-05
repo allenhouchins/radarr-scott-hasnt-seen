@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Wed, 04 Nov 2026 08:21:18 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 08:47:59 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -126,8 +126,8 @@
             <guid isPermaLink="false">tt0103919</guid>
         </item>
         <item>
-            <title><![CDATA[ Carrie (2013) ]]></title>
-            <guid isPermaLink="false">tt1939659</guid>
+            <title><![CDATA[ Carrie (1976) ]]></title>
+            <guid isPermaLink="false">tt0074285</guid>
         </item>
         <item>
             <title><![CDATA[ Casablanca (1943) ]]></title>
@@ -194,8 +194,8 @@
             <guid isPermaLink="false">tt0116126</guid>
         </item>
         <item>
-            <title><![CDATA[ Don't Tell Mom the Babysitter's Dead (2024) ]]></title>
-            <guid isPermaLink="false">tt12444168</guid>
+            <title><![CDATA[ Don't Tell Mom the Babysitter's Dead (1991) ]]></title>
+            <guid isPermaLink="false">tt0101757</guid>
         </item>
         <item>
             <title><![CDATA[ Driving Miss Daisy (1989) ]]></title>
@@ -222,8 +222,12 @@
             <guid isPermaLink="false">tt0104187</guid>
         </item>
         <item>
-            <title><![CDATA[ Father of the Bride (2022) ]]></title>
-            <guid isPermaLink="false">tt13249596</guid>
+            <title><![CDATA[ Fame (1980) ]]></title>
+            <guid isPermaLink="false">tt0080716</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Father of the Bride (1991) ]]></title>
+            <guid isPermaLink="false">tt0101862</guid>
         </item>
         <item>
             <title><![CDATA[ Fifty Shades of Grey (2015) ]]></title>
@@ -322,10 +326,6 @@
             <guid isPermaLink="false">tt0110148</guid>
         </item>
         <item>
-            <title><![CDATA[ Is Paris Burning? (1966) ]]></title>
-            <guid isPermaLink="false">tt0060814</guid>
-        </item>
-        <item>
             <title><![CDATA[ Jack Reacher (2012) ]]></title>
             <guid isPermaLink="false">tt0790724</guid>
         </item>
@@ -362,16 +362,8 @@
             <guid isPermaLink="false">tt0095484</guid>
         </item>
         <item>
-            <title><![CDATA[ Late Fame (2026) ]]></title>
-            <guid isPermaLink="false">tt32298494</guid>
-        </item>
-        <item>
             <title><![CDATA[ Legally Blonde (2001) ]]></title>
             <guid isPermaLink="false">tt0250494</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Love & Basketball (2000) ]]></title>
-            <guid isPermaLink="false">tt0199725</guid>
         </item>
         <item>
             <title><![CDATA[ Mad Max 2 (1981) ]]></title>
@@ -450,6 +442,10 @@
             <guid isPermaLink="false">tt0110632</guid>
         </item>
         <item>
+            <title><![CDATA[ Network (1976) ]]></title>
+            <guid isPermaLink="false">tt0074958</guid>
+        </item>
+        <item>
             <title><![CDATA[ New Year's Eve (2011) ]]></title>
             <guid isPermaLink="false">tt1598822</guid>
         </item>
@@ -478,8 +474,12 @@
             <guid isPermaLink="false">tt4468740</guid>
         </item>
         <item>
-            <title><![CDATA[ Paper Moon (1973) ]]></title>
-            <guid isPermaLink="false">tt0070510</guid>
+            <title><![CDATA[ Paper Moon (2013) ]]></title>
+            <guid isPermaLink="false">tt2925278</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Paris Is Burning (1991) ]]></title>
+            <guid isPermaLink="false">tt0100332</guid>
         </item>
         <item>
             <title><![CDATA[ Pink Flamingos (1972) ]]></title>
@@ -490,8 +490,8 @@
             <guid isPermaLink="false">tt0134847</guid>
         </item>
         <item>
-            <title><![CDATA[ Point Break (2015) ]]></title>
-            <guid isPermaLink="false">tt2058673</guid>
+            <title><![CDATA[ Point Break (1991) ]]></title>
+            <guid isPermaLink="false">tt0102685</guid>
         </item>
         <item>
             <title><![CDATA[ Postcards from the Edge (1990) ]]></title>
@@ -574,8 +574,8 @@
             <guid isPermaLink="false">tt0457702</guid>
         </item>
         <item>
-            <title><![CDATA[ Suspiria (2018) ]]></title>
-            <guid isPermaLink="false">tt1034415</guid>
+            <title><![CDATA[ Suspiria (1977) ]]></title>
+            <guid isPermaLink="false">tt0076786</guid>
         </item>
         <item>
             <title><![CDATA[ Sweet November (2001) ]]></title>
@@ -586,8 +586,8 @@
             <guid isPermaLink="false">tt0108265</guid>
         </item>
         <item>
-            <title><![CDATA[ Taxi Driver (1976) ]]></title>
-            <guid isPermaLink="false">tt0075314</guid>
+            <title><![CDATA[ Taxi (1998) ]]></title>
+            <guid isPermaLink="false">tt0152930</guid>
         </item>
         <item>
             <title><![CDATA[ Teen Witch (1989) ]]></title>
@@ -598,12 +598,12 @@
             <guid isPermaLink="false">tt0086425</guid>
         </item>
         <item>
-            <title><![CDATA[ The Addams Family (1991) ]]></title>
-            <guid isPermaLink="false">tt0101272</guid>
+            <title><![CDATA[ The Addams Family (2019) ]]></title>
+            <guid isPermaLink="false">tt1620981</guid>
         </item>
         <item>
-            <title><![CDATA[ The Amityville Horror (1979) ]]></title>
-            <guid isPermaLink="false">tt0078767</guid>
+            <title><![CDATA[ The Amityville Horror (2005) ]]></title>
+            <guid isPermaLink="false">tt0384806</guid>
         </item>
         <item>
             <title><![CDATA[ The Babadook (2014) ]]></title>
@@ -612,6 +612,10 @@
         <item>
             <title><![CDATA[ The Birdcage (1996) ]]></title>
             <guid isPermaLink="false">tt0115685</guid>
+        </item>
+        <item>
+            <title><![CDATA[ The Bodyguard (1992) ]]></title>
+            <guid isPermaLink="false">tt0103855</guid>
         </item>
         <item>
             <title><![CDATA[ The Bridges of Madison County (1995) ]]></title>
@@ -674,8 +678,8 @@
             <guid isPermaLink="false">tt0079367</guid>
         </item>
         <item>
-            <title><![CDATA[ The Little Vampire 3D (2017) ]]></title>
-            <guid isPermaLink="false">tt4729560</guid>
+            <title><![CDATA[ The Little Vampire (2000) ]]></title>
+            <guid isPermaLink="false">tt0192255</guid>
         </item>
         <item>
             <title><![CDATA[ The Mighty Ducks (1992) ]]></title>
@@ -738,10 +742,6 @@
             <guid isPermaLink="false">tt0403508</guid>
         </item>
         <item>
-            <title><![CDATA[ The Social Network (2010) ]]></title>
-            <guid isPermaLink="false">tt1285016</guid>
-        </item>
-        <item>
             <title><![CDATA[ The Super Mario Bros. Movie (2023) ]]></title>
             <guid isPermaLink="false">tt6718170</guid>
         </item>
@@ -766,8 +766,8 @@
             <guid isPermaLink="false">tt0103074</guid>
         </item>
         <item>
-            <title><![CDATA[ Top Gun (1986) ]]></title>
-            <guid isPermaLink="false">tt0092099</guid>
+            <title><![CDATA[ Top Gun: Maverick (2022) ]]></title>
+            <guid isPermaLink="false">tt1745960</guid>
         </item>
         <item>
             <title><![CDATA[ Top Secret! (1984) ]]></title>
