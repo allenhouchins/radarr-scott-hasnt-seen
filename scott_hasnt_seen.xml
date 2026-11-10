@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Mon, 09 Nov 2026 08:54:08 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 09:00:35 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -50,8 +50,8 @@
             <guid isPermaLink="false">tt0090655</guid>
         </item>
         <item>
-            <title><![CDATA[ Arthur and the Invisibles (2006) ]]></title>
-            <guid isPermaLink="false">tt0344854</guid>
+            <title><![CDATA[ Arthur Christmas (2011) ]]></title>
+            <guid isPermaLink="false">tt1430607</guid>
         </item>
         <item>
             <title><![CDATA[ Audition (2000) ]]></title>
@@ -442,10 +442,6 @@
             <guid isPermaLink="false">tt0110632</guid>
         </item>
         <item>
-            <title><![CDATA[ Network (1976) ]]></title>
-            <guid isPermaLink="false">tt0074958</guid>
-        </item>
-        <item>
             <title><![CDATA[ New Year's Eve (2011) ]]></title>
             <guid isPermaLink="false">tt1598822</guid>
         </item>
@@ -458,8 +454,8 @@
             <guid isPermaLink="false">tt0277371</guid>
         </item>
         <item>
-            <title><![CDATA[ Oldboy (2003) ]]></title>
-            <guid isPermaLink="false">tt0364569</guid>
+            <title><![CDATA[ Oldboy (2013) ]]></title>
+            <guid isPermaLink="false">tt1321511</guid>
         </item>
         <item>
             <title><![CDATA[ Once Upon a Time in the West (1968) ]]></title>
@@ -586,8 +582,8 @@
             <guid isPermaLink="false">tt0108265</guid>
         </item>
         <item>
-            <title><![CDATA[ Taxi (1998) ]]></title>
-            <guid isPermaLink="false">tt0152930</guid>
+            <title><![CDATA[ Taxi Driver (1976) ]]></title>
+            <guid isPermaLink="false">tt0075314</guid>
         </item>
         <item>
             <title><![CDATA[ Teen Witch (1989) ]]></title>
@@ -740,6 +736,10 @@
         <item>
             <title><![CDATA[ The Sisterhood of the Traveling Pants (2005) ]]></title>
             <guid isPermaLink="false">tt0403508</guid>
+        </item>
+        <item>
+            <title><![CDATA[ The Social Network (2010) ]]></title>
+            <guid isPermaLink="false">tt1285016</guid>
         </item>
         <item>
             <title><![CDATA[ The Super Mario Bros. Movie (2023) ]]></title>
