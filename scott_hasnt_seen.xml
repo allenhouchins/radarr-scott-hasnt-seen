@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Fri, 20 Nov 2026 09:29:22 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 09:00:13 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -326,6 +326,10 @@
             <guid isPermaLink="false">tt0110148</guid>
         </item>
         <item>
+            <title><![CDATA[ Is Paris Burning? (1966) ]]></title>
+            <guid isPermaLink="false">tt0060814</guid>
+        </item>
+        <item>
             <title><![CDATA[ Jack Reacher (2012) ]]></title>
             <guid isPermaLink="false">tt0790724</guid>
         </item>
@@ -480,10 +484,6 @@
         <item>
             <title><![CDATA[ Paper Moon (1973) ]]></title>
             <guid isPermaLink="false">tt0070510</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Paris Is Burning (1991) ]]></title>
-            <guid isPermaLink="false">tt0100332</guid>
         </item>
         <item>
             <title><![CDATA[ Pink Flamingos (1972) ]]></title>
