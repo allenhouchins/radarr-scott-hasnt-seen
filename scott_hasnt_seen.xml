@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Sat, 21 Nov 2026 09:00:13 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 09:07:51 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -52,10 +52,6 @@
         <item>
             <title><![CDATA[ Audition (2000) ]]></title>
             <guid isPermaLink="false">tt0235198</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Bad Lieutenant: Port of Call New Orleans (2009) ]]></title>
-            <guid isPermaLink="false">tt1095217</guid>
         </item>
         <item>
             <title><![CDATA[ Barbarella (1968) ]]></title>
@@ -612,6 +608,10 @@
         <item>
             <title><![CDATA[ The Babadook (2014) ]]></title>
             <guid isPermaLink="false">tt2321549</guid>
+        </item>
+        <item>
+            <title><![CDATA[ The Bad Lieutenant - Port of Call: New Orleans (2009) ]]></title>
+            <guid isPermaLink="false">tt1095217</guid>
         </item>
         <item>
             <title><![CDATA[ The Birdcage (1996) ]]></title>
