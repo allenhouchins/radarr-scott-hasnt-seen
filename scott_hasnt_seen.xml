@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Mon, 23 Nov 2026 10:01:48 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 11:52:08 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -48,6 +48,10 @@
         <item>
             <title><![CDATA[ April Fool's Day (1986) ]]></title>
             <guid isPermaLink="false">tt0090655</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Arthur Christmas (2011) ]]></title>
+            <guid isPermaLink="false">tt1430607</guid>
         </item>
         <item>
             <title><![CDATA[ Audition (2000) ]]></title>
@@ -246,8 +250,8 @@
             <guid isPermaLink="false">tt0109831</guid>
         </item>
         <item>
-            <title><![CDATA[ Friday the 13th (1980) ]]></title>
-            <guid isPermaLink="false">tt0080761</guid>
+            <title><![CDATA[ Friday (1995) ]]></title>
+            <guid isPermaLink="false">tt0113118</guid>
         </item>
         <item>
             <title><![CDATA[ Fried Green Tomatoes (1991) ]]></title>
@@ -270,12 +274,12 @@
             <guid isPermaLink="false">tt0051658</guid>
         </item>
         <item>
-            <title><![CDATA[ Godzilla (2014) ]]></title>
-            <guid isPermaLink="false">tt0831387</guid>
-        </item>
-        <item>
             <title><![CDATA[ Godzilla Minus One (2023) ]]></title>
             <guid isPermaLink="false">tt23289160</guid>
+        </item>
+        <item>
+            <title><![CDATA[ Godzilla Minus Zero (2026) ]]></title>
+            <guid isPermaLink="false">tt34384661</guid>
         </item>
         <item>
             <title><![CDATA[ Gone in 60 Seconds (1974) ]]></title>
@@ -310,8 +314,8 @@
             <guid isPermaLink="false">tt0837562</guid>
         </item>
         <item>
-            <title><![CDATA[ House Party (1990) ]]></title>
-            <guid isPermaLink="false">tt0099800</guid>
+            <title><![CDATA[ House Party (2023) ]]></title>
+            <guid isPermaLink="false">tt8005118</guid>
         </item>
         <item>
             <title><![CDATA[ Inspector Gadget (1999) ]]></title>
@@ -320,10 +324,6 @@
         <item>
             <title><![CDATA[ Interview with the Vampire (1994) ]]></title>
             <guid isPermaLink="false">tt0110148</guid>
-        </item>
-        <item>
-            <title><![CDATA[ Is Paris Burning? (1966) ]]></title>
-            <guid isPermaLink="false">tt0060814</guid>
         </item>
         <item>
             <title><![CDATA[ Jack Reacher (2012) ]]></title>
@@ -344,10 +344,6 @@
         <item>
             <title><![CDATA[ Kindergarten Cop (1990) ]]></title>
             <guid isPermaLink="false">tt0099938</guid>
-        </item>
-        <item>
-            <title><![CDATA[ King Arthur (2004) ]]></title>
-            <guid isPermaLink="false">tt0349683</guid>
         </item>
         <item>
             <title><![CDATA[ Kramer vs. Kramer (1979) ]]></title>
@@ -482,6 +478,10 @@
             <guid isPermaLink="false">tt0070510</guid>
         </item>
         <item>
+            <title><![CDATA[ Paris Is Burning (1991) ]]></title>
+            <guid isPermaLink="false">tt0100332</guid>
+        </item>
+        <item>
             <title><![CDATA[ Pink Flamingos (1972) ]]></title>
             <guid isPermaLink="false">tt0069089</guid>
         </item>
@@ -574,8 +574,8 @@
             <guid isPermaLink="false">tt0457702</guid>
         </item>
         <item>
-            <title><![CDATA[ Suspiria (1977) ]]></title>
-            <guid isPermaLink="false">tt0076786</guid>
+            <title><![CDATA[ Suspiria (2018) ]]></title>
+            <guid isPermaLink="false">tt1034415</guid>
         </item>
         <item>
             <title><![CDATA[ Sweet November (2001) ]]></title>
