@@ -4,7 +4,7 @@
         <title>Scott Hasn't Seen</title>
         <description>Movies Scott hasn't seen yet</description>
         <link>https://github.com/yourusername/radarr-scott-hasnt-seen</link>
-        <lastBuildDate>Tue, 24 Nov 2026 11:52:08 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 10:43:54 +0000</lastBuildDate>
         <item>
             <title><![CDATA[ 10 Things I Hate About You (1999) ]]></title>
             <guid isPermaLink="false">tt0147800</guid>
@@ -122,8 +122,8 @@
             <guid isPermaLink="false">tt0127723</guid>
         </item>
         <item>
-            <title><![CDATA[ Candyman (1992) ]]></title>
-            <guid isPermaLink="false">tt0103919</guid>
+            <title><![CDATA[ Candyman (2021) ]]></title>
+            <guid isPermaLink="false">tt9347730</guid>
         </item>
         <item>
             <title><![CDATA[ Carrie (1976) ]]></title>
@@ -274,12 +274,12 @@
             <guid isPermaLink="false">tt0051658</guid>
         </item>
         <item>
-            <title><![CDATA[ Godzilla Minus One (2023) ]]></title>
-            <guid isPermaLink="false">tt23289160</guid>
+            <title><![CDATA[ Godzilla (2014) ]]></title>
+            <guid isPermaLink="false">tt0831387</guid>
         </item>
         <item>
-            <title><![CDATA[ Godzilla Minus Zero (2026) ]]></title>
-            <guid isPermaLink="false">tt34384661</guid>
+            <title><![CDATA[ Godzilla Minus One (2023) ]]></title>
+            <guid isPermaLink="false">tt23289160</guid>
         </item>
         <item>
             <title><![CDATA[ Gone in 60 Seconds (1974) ]]></title>
@@ -574,8 +574,8 @@
             <guid isPermaLink="false">tt0457702</guid>
         </item>
         <item>
-            <title><![CDATA[ Suspiria (2018) ]]></title>
-            <guid isPermaLink="false">tt1034415</guid>
+            <title><![CDATA[ Suspiria (1977) ]]></title>
+            <guid isPermaLink="false">tt0076786</guid>
         </item>
         <item>
             <title><![CDATA[ Sweet November (2001) ]]></title>
